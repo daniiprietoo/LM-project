@@ -1,0 +1,780 @@
+Target word: everyone
+            W=2 | D=50        W=2 | D=100        W=2 | D=200              W=4 | D=50             W=4 | D=100        W=4 | D=200        W=8 | D=50       W=8 | D=100       W=8 | D=200
+#1    everybody (0.89)   everybody (0.83)   everybody (0.81)          anybody (0.91)          anybody (0.88)   everybody (0.84)       feel (0.96)       work (0.93)       work (0.89)
+#2           me (0.87)          me (0.82)          me (0.79)       everything (0.91)         anything (0.86)    anything (0.84)    changes (0.96)     people (0.92)       weve (0.89)
+#3      someone (0.86)     someone (0.80)   something (0.77)         anything (0.90)       everything (0.86)     anybody (0.84)       work (0.96)    changes (0.92)    changes (0.88)
+#4     anything (0.84)   something (0.80)      anyone (0.77)        everybody (0.89)        everybody (0.85)  everything (0.83)  difficult (0.96)       feel (0.92)  difficult (0.88)
+#5       anyone (0.83)    anything (0.79)         god (0.77)        depressed (0.88)              sad (0.84)         sad (0.79)       need (0.96)       hard (0.91)       hard (0.87)
+#6      beijing (0.83)      anyone (0.79)     someone (0.76)          merchan (0.87)          unhappy (0.82)      anyone (0.79)       hard (0.96)  difficult (0.91)       feel (0.87)
+#7    something (0.83)  everything (0.79)    somebody (0.75)              sad (0.86)  vulnerabilities (0.82)    resonate (0.79)    denying (0.95)       weve (0.91)     things (0.87)
+#8          god (0.83)         god (0.78)  everything (0.75)  vulnerabilities (0.86)             okay (0.81)        come (0.79)     people (0.95)       need (0.90)         go (0.87)
+#9   everything (0.82)    somebody (0.77)    anything (0.74)              evo (0.85)            purse (0.81)        okay (0.78)       want (0.95)   positive (0.90)     that’s (0.87)
+#10     nothing (0.80)     nothing (0.74)     beijing (0.73)           polish (0.85)             easy (0.80)    grateful (0.78)  motivated (0.95)    nothing (0.90)   positive (0.86)
+
+Target word: music
+            W=2 | D=50         W=2 | D=100      W=2 | D=200         W=4 | D=50         W=4 | D=100           W=4 | D=200         W=8 | D=50       W=8 | D=100           W=8 | D=200
+#1      tunnels (0.80)         arts (0.70)     color (0.61)        tata (0.81)         hair (0.79)           hair (0.73)    longtime (0.97)   longtime (0.94)          books (0.90)
+#2   enrichment (0.79)        color (0.70)  padukone (0.61)       paint (0.80)        forms (0.79)          forms (0.72)       lands (0.97)      books (0.94)        kimetsu (0.90)
+#3    margarine (0.78)          art (0.69)       art (0.61)       forms (0.80)        paint (0.77)        bedding (0.72)       frank (0.97)     acting (0.94)       longtime (0.89)
+#4         lynn (0.78)    diversity (0.66)   tunnels (0.61)    vitamins (0.79)      soulful (0.77)          paint (0.72)        adds (0.96)       sick (0.93)           hair (0.89)
+#5    diversity (0.77)      tunnels (0.66)   folders (0.60)        hair (0.79)       dragon (0.76)       clutches (0.71)      pieces (0.96)     pieces (0.93)         acting (0.89)
+#6   aspiration (0.77)       reggae (0.66)  dressing (0.60)  privileged (0.79)        glass (0.75)     privileged (0.71)      acting (0.96)       hair (0.93)        slammed (0.89)
+#7       masala (0.77)  agriculture (0.66)      kerr (0.60)   potassium (0.79)         eyes (0.75)         adored (0.70)  everywhere (0.96)    kimetsu (0.93)         pieces (0.89)
+#8         fats (0.76)      burdens (0.65)      arts (0.60)     rattled (0.78)    potassium (0.74)      potassium (0.70)      “every (0.96)       head (0.93)           sick (0.89)
+#9      folders (0.76)      furness (0.65)   furness (0.60)     soulful (0.78)       “beach (0.74)  grandchildren (0.70)        nova (0.96)  wellknown (0.93)  entrepreneurs (0.89)
+#10       roman (0.76)    organiser (0.65)    frothy (0.59)    ensemble (0.78)  aspirations (0.74)        grossly (0.70)        shah (0.96)      lands (0.92)         what’s (0.88)
+
+Target word: running
+              W=2 | D=50        W=2 | D=100          W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200         W=8 | D=50         W=8 | D=100         W=8 | D=200
+#1      disgusted (0.82)    breaking (0.72)      breaking (0.70)   brisbane (0.86)       fury (0.82)        die (0.79)   probation (0.95)     derailed (0.91)    probation (0.86)
+#2       instinct (0.82)   disgusted (0.72)     disgusted (0.69)        die (0.86)        die (0.82)    falling (0.77)    delaware (0.95)    probation (0.91)         2007 (0.86)
+#3       rewarded (0.80)       probe (0.70)      instinct (0.67)       2005 (0.86)     gunned (0.82)   paranoid (0.77)      myself (0.94)       myself (0.90)      charged (0.85)
+#4          probe (0.80)    instinct (0.70)       respite (0.67)    falling (0.85)    falling (0.82)  perceived (0.76)        bits (0.93)       plenty (0.89)      simpson (0.84)
+#5       breaking (0.80)      paired (0.69)  skyrocketing (0.65)  perceived (0.84)  blackpool (0.81)     gunned (0.76)     simpson (0.93)     delaware (0.89)     delaware (0.84)
+#6      returning (0.80)     respite (0.69)        gunned (0.65)    heading (0.84)   paranoid (0.81)      craic (0.76)    derailed (0.93)         2007 (0.89)     infamous (0.83)
+#7         flying (0.79)  travelling (0.68)    reelection (0.65)    figured (0.84)        lim (0.81)    figured (0.76)   endearing (0.93)     hardwood (0.89)       assume (0.83)
+#8         payton (0.78)   returning (0.68)       looping (0.65)   paranoid (0.84)       iowa (0.80)      burnt (0.76)         tea (0.93)     infamous (0.88)  restitution (0.83)
+#9        omitted (0.78)       lease (0.68)       minshew (0.64)     gunned (0.84)       maid (0.80)       fury (0.76)    infamous (0.93)     warranty (0.88)      china’s (0.83)
+#10  skyrocketing (0.78)  partnering (0.68)      catching (0.64)       fury (0.83)      burnt (0.80)      corey (0.75)  travellers (0.92)  restitution (0.88)   engagement (0.83)
+
+Target word: worse
+         W=2 | D=50            W=2 | D=100            W=2 | D=200            W=4 | D=50       W=4 | D=100        W=4 | D=200           W=8 | D=50        W=8 | D=100        W=8 | D=200
+#1    better (0.81)          better (0.78)          better (0.78)       splendid (0.85)     sooner (0.83)      sooner (0.78)       nothing (0.95)     tactics (0.89)     sincere (0.85)
+#2    faster (0.76)          slower (0.77)          faster (0.74)           yes” (0.84)     little (0.80)  noticeably (0.76)     beautiful (0.95)       unity (0.89)        fans (0.83)
+#3   pickett (0.74)          faster (0.77)          slower (0.73)     incredible (0.84)     deeper (0.80)      harder (0.76)         unity (0.95)   beautiful (0.88)      trauma (0.83)
+#4    slower (0.74)            less (0.74)            less (0.70)         harder (0.83)        evo (0.80)      better (0.75)       sincere (0.95)       place (0.88)     nothing (0.83)
+#5    normal (0.74)  interconnected (0.73)         cheaper (0.69)         biased (0.83)       yes” (0.79)      deeper (0.75)         place (0.95)     respect (0.88)   beautiful (0.83)
+#6   heavier (0.73)         pickett (0.73)         heavier (0.69)           pain (0.83)       pain (0.78)      little (0.75)     threeyear (0.94)      resign (0.88)    examined (0.82)
+#7    harder (0.73)         cheaper (0.73)         pickett (0.69)        passion (0.82)   splendid (0.78)        pain (0.75)          dday (0.94)    progress (0.88)        life (0.82)
+#8    busier (0.73)          normal (0.71)  interconnected (0.69)        dealing (0.82)     harder (0.78)        yes” (0.74)          life (0.94)    abortion (0.88)  kidnapping (0.82)
+#9      just (0.72)          harder (0.71)         “better (0.68)         sooner (0.82)    problem (0.78)    trending (0.74)  saintgermain (0.94)      feasts (0.88)        mayo (0.82)
+#10     less (0.72)          louder (0.71)        pregnant (0.67)  unfortunately (0.82)  enjoyable (0.78)    splendid (0.74)          kent (0.94)  confidence (0.88)      feasts (0.82)
+
+Target word: friday
+           W=2 | D=50       W=2 | D=100       W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200        W=8 | D=50       W=8 | D=100       W=8 | D=200
+#1      monday (0.96)     monday (0.94)     monday (0.93)    tuesday (0.96)   thursday (0.96)    tuesday (0.95)     monday (0.95)     monday (0.93)     monday (0.91)
+#2    thursday (0.93)   thursday (0.91)   thursday (0.90)   thursday (0.96)    tuesday (0.96)   thursday (0.95)    tuesday (0.93)    tuesday (0.92)    tuesday (0.90)
+#3     tuesday (0.93)    tuesday (0.91)    tuesday (0.90)     monday (0.96)     monday (0.95)  wednesday (0.94)   thursday (0.93)   thursday (0.91)   thursday (0.89)
+#4   wednesday (0.91)  wednesday (0.89)  wednesday (0.88)  wednesday (0.95)  wednesday (0.95)     monday (0.94)  wednesday (0.92)  wednesday (0.90)  wednesday (0.88)
+#5      sunday (0.88)     sunday (0.85)     sunday (0.82)  september (0.93)   february (0.93)  september (0.91)      fargo (0.91)       16th (0.88)       16th (0.82)
+#6    saturday (0.85)   saturday (0.82)   saturday (0.80)   february (0.93)  september (0.93)       july (0.90)       16th (0.91)   november (0.87)   november (0.82)
+#7        july (0.80)       july (0.73)         28 (0.72)       july (0.91)       july (0.93)   february (0.89)      12000 (0.90)      fargo (0.86)       july (0.82)
+#8        sept (0.80)       27th (0.73)       sept (0.72)       june (0.91)       june (0.91)       june (0.89)   occurred (0.90)       july (0.86)   february (0.82)
+#9        27th (0.77)       sept (0.73)       27th (0.71)    january (0.89)    january (0.90)    january (0.86)   november (0.89)       24th (0.84)   december (0.82)
+#10         26 (0.76)         28 (0.73)          9 (0.70)   november (0.88)    october (0.88)     august (0.86)       note (0.89)       june (0.83)  september (0.79)
+
+Target word: september
+          W=2 | D=50      W=2 | D=100      W=2 | D=200       W=4 | D=50      W=4 | D=100       W=4 | D=200        W=8 | D=50       W=8 | D=100       W=8 | D=200
+#1       july (0.95)     april (0.92)      july (0.91)  february (0.95)  february (0.95)   february (0.93)     august (0.92)         22 (0.87)   february (0.87)
+#2      april (0.94)  february (0.92)     april (0.90)  november (0.95)   january (0.94)    january (0.92)   february (0.92)   november (0.87)     monday (0.85)
+#3    october (0.94)      july (0.92)  february (0.90)   january (0.94)  november (0.94)    october (0.92)   thursday (0.91)   february (0.87)   november (0.85)
+#4    january (0.93)   october (0.90)   october (0.89)   october (0.94)    friday (0.93)     friday (0.91)     monday (0.89)     monday (0.84)   thursday (0.83)
+#5   february (0.93)     march (0.90)   january (0.89)  thursday (0.94)  thursday (0.93)      april (0.91)         22 (0.89)         23 (0.83)         22 (0.82)
+#6   december (0.93)      june (0.89)     march (0.88)      june (0.93)   october (0.93)   november (0.91)   november (0.89)          8 (0.83)  wednesday (0.81)
+#7      march (0.92)  december (0.89)      june (0.88)      july (0.93)     april (0.93)       june (0.90)  wednesday (0.89)   thursday (0.82)         23 (0.81)
+#8       june (0.92)   january (0.88)  december (0.88)     april (0.93)      june (0.92)     monday (0.90)    january (0.88)     august (0.82)    january (0.81)
+#9     august (0.90)    august (0.87)    august (0.87)    friday (0.93)    monday (0.92)  wednesday (0.89)         23 (0.87)  wednesday (0.82)    tuesday (0.81)
+#10  november (0.88)  november (0.85)  november (0.83)    monday (0.93)   tuesday (0.92)   thursday (0.89)    tuesday (0.87)    january (0.81)          8 (0.80)
+
+Target word: someone
+             W=2 | D=50       W=2 | D=100         W=2 | D=200          W=4 | D=50         W=4 | D=100         W=4 | D=200        W=8 | D=50        W=8 | D=100         W=8 | D=200
+#1      everyone (0.86)   everyone (0.80)     everyone (0.76)    something (0.91)    something (0.86)    something (0.84)    cheered (0.96)   fortunate (0.93)      cheered (0.88)
+#2     something (0.84)  something (0.79)    something (0.76)     anything (0.88)     anything (0.85)     anything (0.83)    dreamed (0.95)      update (0.92)     speeding (0.86)
+#3            me (0.82)    nothing (0.76)           me (0.73)       things (0.87)      nothing (0.82)           me (0.80)     silent (0.95)       noone (0.91)         none (0.86)
+#4      anything (0.78)   anything (0.76)      nothing (0.71)         even (0.87)           me (0.82)  distinguish (0.80)    talking (0.95)      string (0.91)       silent (0.86)
+#5       nothing (0.77)   setbacks (0.75)     anything (0.70)           me (0.86)       things (0.81)         even (0.80)       alex (0.95)        none (0.91)       answer (0.85)
+#6           him (0.77)         me (0.75)          god (0.67)          too (0.86)          too (0.81)       always (0.79)   dedicate (0.95)     dreamed (0.91)    behaviour (0.85)
+#7     everybody (0.75)    beijing (0.72)     setbacks (0.66)      nothing (0.85)         even (0.80)       things (0.78)    pressed (0.95)  definitely (0.91)    confusion (0.85)
+#8     obamacare (0.75)        ‘no (0.71)   everything (0.66)           “i (0.85)  distinguish (0.80)          too (0.78)   speeding (0.95)       seems (0.91)  constitutes (0.85)
+#9   everything” (0.75)    “people (0.70)      beijing (0.66)       ‘thank (0.85)       always (0.80)       really (0.77)  confusion (0.95)   behaviour (0.91)     anything (0.85)
+#10      beijing (0.74)        god (0.70)  everything” (0.66)  distinguish (0.85)        honey (0.80)     actually (0.77)     server (0.95)   confusion (0.91)    fortunate (0.85)
+
+Target word: getting
+            W=2 | D=50         W=2 | D=100         W=2 | D=200           W=4 | D=50        W=4 | D=100        W=4 | D=200        W=8 | D=50       W=8 | D=100      W=8 | D=200
+#1         hard (0.81)         hard (0.79)         hard (0.74)   interesting (0.84)    thinking (0.80)   happening (0.76)    tattoos (0.97)     enough (0.95)    enough (0.89)
+#2      pleased (0.78)  commercials (0.72)  commercials (0.69)      thinking (0.84)   happening (0.80)    travails (0.76)     enough (0.97)      leave (0.93)  whatever (0.89)
+#3         okay (0.77)       dating (0.71)      pleased (0.68)      whatever (0.83)     unknown (0.80)     writing (0.76)       make (0.97)       seem (0.93)       get (0.89)
+#4   worthwhile (0.76)  comfortable (0.70)       dating (0.68)     happening (0.83)     writing (0.79)        fast (0.76)  motivated (0.97)   whatever (0.93)   excited (0.88)
+#5         thin (0.75)      pleased (0.69)   worthwhile (0.68)        werent (0.83)     opinion (0.79)    thinking (0.76)       seem (0.97)    tattoos (0.93)      work (0.88)
+#6       dating (0.74)         thin (0.69)       picked (0.66)     hopefully (0.83)    whatever (0.78)  situations (0.76)       work (0.96)  realistic (0.93)        do (0.88)
+#7        happy (0.74)         ‘get (0.69)  comfortable (0.65)          gpus (0.82)  situations (0.78)    whatever (0.76)       chat (0.96)    excited (0.93)        go (0.88)
+#8   profoundly (0.73)        doing (0.68)     stepping (0.65)         ideas (0.82)   hopefully (0.78)         fit (0.76)    excited (0.96)         go (0.93)     leave (0.88)
+#9         cool (0.73)     stepping (0.68)     creeping (0.64)  stradivarius (0.82)       ideas (0.78)  neighbours (0.75)       weve (0.96)       work (0.93)      seem (0.88)
+#10     pokemon (0.72)      walking (0.68)   profoundly (0.63)        eating (0.82)    travails (0.77)     starved (0.75)   elected” (0.96)    pleased (0.92)      want (0.88)
+
+Target word: reported
+           W=2 | D=50       W=2 | D=100       W=2 | D=200        W=4 | D=50     W=4 | D=100     W=4 | D=200        W=8 | D=50          W=8 | D=100         W=8 | D=200
+#1   confirmed (0.76)  confirmed (0.65)  confirmed (0.70)      share (0.74)    share (0.69)    share (0.68)    russian (0.95)          2019 (0.94)         2019 (0.87)
+#2          ip (0.69)  insisting (0.62)   revealed (0.64)       post (0.73)     post (0.69)     post (0.68)        plc (0.95)     backdated (0.92)    backdated (0.86)
+#3   testified (0.69)   revealed (0.62)        kay (0.63)       cent (0.69)      eps (0.68)      837 (0.67)         05 (0.95)            05 (0.92)           05 (0.85)
+#4        sued (0.67)     warned (0.62)     rooney (0.61)         42 (0.68)  hybrids (0.67)  hybrids (0.65)    pledges (0.95)         loans (0.91)          eps (0.85)
+#5    observed (0.67)     rooney (0.62)     warned (0.61)    slipped (0.68)      239 (0.66)      eps (0.64)   maldives (0.95)      maldives (0.91)    finishing (0.85)
+#6       clark (0.67)    stating (0.62)  testified (0.61)        837 (0.68)      837 (0.66)      152 (0.62)  austerity (0.95)           net (0.91)    inception (0.84)
+#7    revealed (0.66)     posted (0.62)  uncovered (0.61)        239 (0.68)     cent (0.64)     hvdc (0.62)       2019 (0.95)   likeforlike (0.91)     commence (0.84)
+#8   economist (0.66)       nest (0.61)    claimed (0.61)   annually (0.67)      152 (0.64)     cent (0.62)        net (0.94)            31 (0.91)          plc (0.84)
+#9      tabled (0.66)   observed (0.61)   asserted (0.60)        eps (0.66)       15 (0.64)  slipped (0.62)       1997 (0.94)  incorporated (0.91)        loans (0.84)
+#10     rooney (0.66)    alleged (0.61)   demanded (0.60)  operating (0.66)       30 (0.64)   pfizer (0.61)       auto (0.94)       russian (0.91)  appointment (0.84)
+
+Target word: expected
+             W=2 | D=50         W=2 | D=100        W=2 | D=200         W=4 | D=50        W=4 | D=100        W=4 | D=200         W=8 | D=50          W=8 | D=100         W=8 | D=200
+#1     projected (0.85)    projected (0.85)   projected (0.83)   projected (0.88)   projected (0.87)   projected (0.83)     farmers (0.97)          self (0.96)    informing (0.93)
+#2        unable (0.85)       aiming (0.80)      aiming (0.79)    supposed (0.80)    supposed (0.80)    supposed (0.78)         snp (0.97)     informing (0.96)         self (0.92)
+#3     scheduled (0.84)    scheduled (0.80)      unable (0.78)   available (0.80)   available (0.79)   scheduled (0.76)    initiate (0.97)       farmers (0.95)   spectators (0.92)
+#4      supposed (0.82)     supposed (0.79)      poised (0.77)      movers (0.77)      movers (0.76)   available (0.75)   introduce (0.97)    filmmakers (0.95)  participate (0.91)
+#5   withholding (0.81)       poised (0.78)    supposed (0.77)   scheduled (0.76)  provenance (0.76)      movers (0.72)  filmmakers (0.97)       courage (0.95)        juror (0.91)
+#6         patty (0.81)  withholding (0.77)   scheduled (0.76)        glad (0.76)   scheduled (0.76)      québec (0.72)     courage (0.97)     twothirds (0.95)   filmmakers (0.91)
+#7        poised (0.80)    paramount (0.76)  overloaded (0.74)   essential (0.76)         “it (0.76)         “it (0.72)   informing (0.97)    threatened (0.95)       aiming (0.91)
+#8        trying (0.80)          rfk (0.76)   paramount (0.74)     android (0.76)    striving (0.75)      bull’s (0.71)    mandates (0.97)  prosecutions (0.95)      declare (0.91)
+#9        aiming (0.79)       unable (0.76)         rfk (0.72)  provenance (0.75)     android (0.74)  provenance (0.71)  permission (0.97)     personnel (0.95)      grimsby (0.91)
+#10     punished (0.79)   overloaded (0.75)       ready (0.72)  accessible (0.75)        glad (0.74)      poised (0.71)        self (0.97)      mandates (0.94)      compete (0.91)
+
+Target word: water
+                W=2 | D=50              W=2 | D=100            W=2 | D=200             W=4 | D=50              W=4 | D=100            W=4 | D=200           W=8 | D=50          W=8 | D=100           W=8 | D=200
+#1   transportation (0.80)    transportation (0.66)      microbiome (0.63)     transitions (0.77)        protection (0.75)       processes (0.72)    enormously (0.95)           911 (0.93)            911 (0.86)
+#2            human (0.75)         caribbean (0.65)  transportation (0.62)   environmental (0.77)         processes (0.74)      protection (0.70)     quickness (0.95)           bye (0.92)        honours (0.82)
+#3        community (0.73)          midlands (0.65)           rural (0.61)  infrastructure (0.77)  interoperability (0.74)     development (0.70)     saskatoon (0.95)         cider (0.91)        builtin (0.82)
+#4         security (0.72)           quality (0.65)       caribbean (0.61)         service (0.76)         standards (0.73)     transitions (0.69)       italian (0.95)  grandparents (0.91)        dignity (0.81)
+#5           public (0.72)         community (0.64)       community (0.59)         highway (0.76)           service (0.72)  infrastructure (0.69)         taunt (0.95)         leads (0.91)          sewer (0.81)
+#6         midlands (0.71)        microbiome (0.63)        midlands (0.59)          fossil (0.76)       transitions (0.71)      processing (0.69)     offensive (0.95)       tracked (0.90)          works (0.81)
+#7          quality (0.71)            public (0.63)    disinflation (0.59)   collaboration (0.76)     environmental (0.71)         soaring (0.69)  multilateral (0.94)       honours (0.90)  correspondent (0.81)
+#8         regional (0.70)        production (0.62)      allowances (0.58)       inclusion (0.76)            fossil (0.71)            land (0.69)           bye (0.94)         shall (0.90)    astronomers (0.80)
+#9       microbiome (0.69)  interoperability (0.62)     warehousing (0.58)            land (0.75)          handling (0.71)         bridges (0.69)         ranks (0.94)     brilliant (0.90)      quickness (0.80)
+#10      allowances (0.69)             plant (0.62)            4600 (0.58)      processing (0.75)       development (0.71)   environmental (0.68)         pitch (0.94)      bustling (0.89)          shall (0.80)
+
+Target word: summer
+            W=2 | D=50        W=2 | D=100        W=2 | D=200            W=4 | D=50           W=4 | D=100           W=4 | D=200        W=8 | D=50        W=8 | D=100          W=8 | D=200
+#1       season (0.87)        year (0.83)     weekend (0.80)        absence (0.88)      promotion (0.86)        absence (0.83)    sensors (0.98)     sensors (0.96)       century (0.92)
+#2      weekend (0.84)      season (0.82)      season (0.80)      promotion (0.88)        absence (0.86)      promotion (0.83)  cocktails (0.98)     century (0.96)        manner (0.92)
+#3         year (0.84)     weekend (0.81)        week (0.80)     safeguards (0.87)           bbcs (0.85)        tripled (0.82)     manage (0.98)       movie (0.95)         1990s (0.92)
+#4         week (0.83)        week (0.80)        year (0.80)       normandy (0.87)        türkiye (0.84)  participation (0.81)     manner (0.98)        kept (0.95)      entirety (0.91)
+#5   appearance (0.80)      decade (0.72)      ninety (0.73)  participation (0.86)        tripled (0.84)   municipality (0.80)    century (0.98)        item (0.95)       absence (0.91)
+#6       ninety (0.78)  appearance (0.71)    summer’s (0.69)            sky (0.86)  participation (0.84)            ccp (0.80)     formal (0.98)      severe (0.95)          kept (0.91)
+#7       decade (0.76)     chapter (0.70)  appearance (0.69)        türkiye (0.86)        chamber (0.83)          table (0.80)    monarch (0.98)      belair (0.95)  highlighting (0.91)
+#8      night’s (0.76)    summer’s (0.69)       year” (0.69)      cooperate (0.86)     safeguards (0.83)        türkiye (0.80)      1990s (0.98)  turnaround (0.95)          item (0.91)
+#9        year” (0.76)        liga (0.69)      decade (0.69)          jokes (0.86)       uprights (0.83)       normandy (0.79)    absence (0.98)   cocktails (0.95)            02 (0.91)
+#10      sundae (0.74)       month (0.68)       month (0.68)        tripled (0.86)            sky (0.83)          genre (0.79)        fbi (0.97)      fairly (0.95)       sensors (0.91)
+
+Target word: monday
+           W=2 | D=50       W=2 | D=100       W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200        W=8 | D=50       W=8 | D=100       W=8 | D=200
+#1      friday (0.96)     friday (0.94)     friday (0.93)   thursday (0.96)     friday (0.95)     friday (0.94)    tuesday (0.98)   thursday (0.95)   thursday (0.93)
+#2    thursday (0.94)   thursday (0.91)   thursday (0.91)     friday (0.96)    tuesday (0.95)    tuesday (0.94)   thursday (0.97)    tuesday (0.95)    tuesday (0.92)
+#3     tuesday (0.90)  wednesday (0.89)    tuesday (0.88)    tuesday (0.95)   thursday (0.95)   thursday (0.93)  wednesday (0.97)  wednesday (0.95)     friday (0.91)
+#4   wednesday (0.89)    tuesday (0.89)  wednesday (0.87)  wednesday (0.95)  wednesday (0.94)  wednesday (0.92)   november (0.96)   november (0.94)  wednesday (0.91)
+#5      sunday (0.89)     sunday (0.85)     sunday (0.83)  september (0.93)  september (0.92)  september (0.90)     friday (0.95)     friday (0.93)   february (0.90)
+#6    saturday (0.85)   saturday (0.82)   saturday (0.81)       july (0.90)       july (0.91)       july (0.88)      april (0.93)    october (0.91)   november (0.89)
+#7        sept (0.83)       sept (0.75)       sept (0.74)   february (0.90)   february (0.89)       june (0.88)         23 (0.93)      april (0.90)      april (0.87)
+#8        july (0.80)       27th (0.75)       27th (0.71)       june (0.89)       june (0.89)   february (0.86)    october (0.93)       june (0.89)   december (0.87)
+#9        27th (0.80)         28 (0.74)         28 (0.71)        7th (0.89)   november (0.88)    january (0.85)         14 (0.93)       july (0.89)    october (0.86)
+#10   december (0.80)   december (0.74)   february (0.69)   november (0.88)    january (0.88)        7th (0.85)   december (0.93)   february (0.89)         23 (0.85)
+
+Target word: million
+            W=2 | D=50        W=2 | D=100        W=2 | D=200       W=4 | D=50     W=4 | D=100      W=4 | D=200            W=8 | D=50      W=8 | D=100       W=8 | D=200
+#1        miles (0.81)       miles (0.80)     percent (0.77)   percent (0.84)  percent (0.81)   percent (0.76)       dividend (0.93)     euros (0.87)     fourth (0.82)
+#2      percent (0.80)     percent (0.79)     billion (0.76)       800 (0.81)      800 (0.72)        70 (0.73)           fund (0.92)  dividend (0.86)      third (0.82)
+#3      billion (0.78)     billion (0.75)       miles (0.74)   revenue (0.78)  roughly (0.72)       800 (0.71)      consensus (0.92)    newell (0.86)         78 (0.81)
+#4          120 (0.74)         120 (0.74)    trillion (0.66)   roughly (0.77)  revenue (0.71)   revenue (0.71)  international (0.91)       1st (0.86)  consensus (0.81)
+#5   kilometres (0.71)          60 (0.69)         120 (0.65)      cent (0.76)       70 (0.70)     euros (0.70)          euros (0.91)     third (0.86)        1st (0.81)
+#6     trillion (0.71)  kilometres (0.69)  kilometres (0.65)  revenues (0.75)     cent (0.68)      cent (0.70)           bank (0.90)        78 (0.86)        3rd (0.81)
+#7           40 (0.70)          70 (0.66)          60 (0.64)       cap (0.74)       rs (0.68)   roughly (0.69)         fourth (0.90)   revenue (0.86)    revenue (0.80)
+#8           60 (0.69)        1000 (0.65)          70 (0.63)        70 (0.74)      cap (0.68)     cubic (0.67)         newell (0.90)      bank (0.86)     newell (0.80)
+#9         1000 (0.69)       dozen (0.65)          40 (0.61)       per (0.73)      326 (0.68)  annually (0.66)          third (0.89)    fourth (0.85)      euros (0.80)
+#10          38 (0.65)      meters (0.65)          38 (0.61)        rs (0.73)       sp (0.67)    nearly (0.66)     investment (0.89)       274 (0.85)       bank (0.80)
+
+Target word: director
+           W=2 | D=50           W=2 | D=100           W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200          W=8 | D=50       W=8 | D=100         W=8 | D=200
+#1        bush (0.81)            ceo (0.80)            ceo (0.78)      chief (0.88)      chief (0.85)      chief (0.84)    executive (0.96)  executive (0.94)    executive (0.89)
+#2         ceo (0.81)           bush (0.76)       chairman (0.75)  executive (0.87)  executive (0.83)  executive (0.81)  chairperson (0.94)      chief (0.93)        chief (0.89)
+#3   executive (0.80)          chief (0.75)      secretary (0.72)    francis (0.84)       vice (0.77)    francis (0.76)        chief (0.94)   doubling (0.92)     doubling (0.84)
+#4    chairman (0.77)        founder (0.73)        founder (0.71)    maktoum (0.84)   chairman (0.77)       vice (0.76)     doubling (0.94)    general (0.88)      general (0.84)
+#5   inspector (0.77)      executive (0.72)      executive (0.71)         al (0.78)    officer (0.75)   chairman (0.76)       spills (0.93)       khan (0.88)    volunteer (0.81)
+#6       patel (0.77)          chair (0.71)       producer (0.71)         vp (0.78)    francis (0.74)    maktoum (0.75)       lineup (0.92)     spills (0.87)  chairperson (0.79)
+#7    producer (0.76)      inspector (0.70)          chief (0.70)     arnold (0.78)    maktoum (0.73)        ceo (0.72)       kaduna (0.92)  volunteer (0.87)      officer (0.79)
+#8       chief (0.76)  directorchief (0.70)      inspector (0.70)       vice (0.78)    mcbride (0.72)         vp (0.71)    technical (0.92)  technical (0.87)         khan (0.78)
+#9   secretary (0.76)       producer (0.70)  directorchief (0.68)    officer (0.78)    insider (0.72)    officer (0.71)      general (0.92)         km (0.86)    secretary (0.78)
+#10    officer (0.75)      alexander (0.70)          patel (0.68)        ceo (0.77)     arnold (0.71)         al (0.70)         khan (0.92)    officer (0.86)      charles (0.78)
+
+Target word: staff
+             W=2 | D=50            W=2 | D=100            W=2 | D=200         W=4 | D=50           W=4 | D=100           W=4 | D=200          W=8 | D=50         W=8 | D=100         W=8 | D=200
+#1      students (0.81)          asylum (0.77)          asylum (0.72)   residents (0.87)      residents (0.85)     businesses (0.82)     travails (0.96)     reviving (0.92)       engage (0.88)
+#2        asylum (0.80)         workers (0.75)  subpostmasters (0.70)     control (0.86)     businesses (0.84)      residents (0.81)  protections (0.96)       hinder (0.92)    residents (0.87)
+#3         daley (0.79)         critics (0.74)       rivalries (0.70)      locals (0.85)         abuses (0.84)    individuals (0.80)      improve (0.96)       lovers (0.92)         gain (0.87)
+#4       workers (0.78)       civilians (0.74)       residents (0.69)      values (0.85)         voices (0.82)         locals (0.79)         cars (0.96)        towns (0.91)         cars (0.87)
+#5       critics (0.78)        students (0.72)         critics (0.69)  businesses (0.85)       diseases (0.82)  organizations (0.79)         gain (0.96)         soil (0.91)  protections (0.87)
+#6   disappeared (0.78)          “those (0.72)          “those (0.69)        sick (0.84)         locals (0.82)            sri (0.78)     yourself (0.95)    residents (0.91)     tolerate (0.87)
+#7   republicans (0.78)         banners (0.72)         workers (0.69)       grace (0.84)  organizations (0.82)           sick (0.78)    broadband (0.95)     physical (0.91)          sit (0.87)
+#8     civilians (0.78)  subpostmasters (0.72)         mutants (0.68)     insured (0.84)            sri (0.82)         values (0.77)        apart (0.95)     required (0.91)     required (0.87)
+#9          acts (0.77)       residents (0.72)           daley (0.68)    intimacy (0.84)         values (0.82)        insured (0.77)       reduce (0.95)       taxing (0.91)  generations (0.87)
+#10    rivalries (0.77)      businesses (0.72)    complexities (0.68)    diseases (0.83)         noises (0.81)        effects (0.77)      hopping (0.95)  generations (0.91)      connect (0.87)
+
+Target word: month
+              W=2 | D=50          W=2 | D=100          W=2 | D=200          W=4 | D=50         W=4 | D=100         W=4 | D=200        W=8 | D=50      W=8 | D=100       W=8 | D=200
+#1           year (0.85)          year (0.82)          week (0.83)      contain (0.81)    incident” (0.78)       margin (0.77)      stint (0.97)   norwalk (0.94)      stint (0.88)
+#2           week (0.83)          week (0.81)          year (0.80)          hug (0.79)         year (0.77)         year (0.75)  economics (0.97)    hectic (0.94)  economics (0.88)
+#3         season (0.73)       weekend (0.69)       weekend (0.69)        roman (0.79)  respectable (0.76)          hug (0.74)  engineers (0.97)      mild (0.94)      grant (0.88)
+#4         summer (0.72)        summer (0.68)        summer (0.68)       margin (0.78)          hug (0.76)  respectable (0.73)    embarks (0.97)     stint (0.93)        60s (0.88)
+#5        weekend (0.71)        decade (0.67)        decade (0.65)  replacement (0.78)       margin (0.75)      weekend (0.73)       2002 (0.96)      2002 (0.93)      fined (0.88)
+#6   doubleheader (0.70)        season (0.66)        season (0.65)      handbag (0.78)      handbag (0.75)          108 (0.72)     “texas (0.96)    sharif (0.93)    trailed (0.88)
+#7      turnovers (0.69)       century (0.64)        week’s (0.63)  respectable (0.77)  replacement (0.75)  replacement (0.72)      piece (0.96)  retiring (0.93)       2002 (0.88)
+#8           half (0.69)  multivehicle (0.64)        year’s (0.62)  competition (0.77)        title (0.74)          ton (0.72)       jump (0.96)    cooler (0.93)     hectic (0.88)
+#9         tamara (0.68)       months” (0.64)  doubleheader (0.61)         cave (0.77)         cave (0.74)      handbag (0.72)     hectic (0.96)  launched (0.93)      grunt (0.88)
+#10           175 (0.68)        week’s (0.63)        ninety (0.61)      rebound (0.77)     securing (0.74)   nationally (0.72)      stall (0.96)      jump (0.93)     sharif (0.88)
+
+Target word: price
+          W=2 | D=50          W=2 | D=100         W=2 | D=200                 W=4 | D=50       W=4 | D=100       W=4 | D=200        W=8 | D=50       W=8 | D=100       W=8 | D=200
+#1     volume (0.61)         17500 (0.58)        17500 (0.52)              target (0.78)     target (0.78)    lowered (0.70)     target (0.97)     target (0.97)     target (0.96)
+#2        320 (0.61)           320 (0.57)       volume (0.52)             dropped (0.77)    lowered (0.77)      gamma (0.68)       3400 (0.94)       3400 (0.90)  objective (0.89)
+#3      17500 (0.60)          2700 (0.54)          320 (0.51)             sandler (0.76)    sandler (0.72)    trading (0.68)      14000 (0.94)  objective (0.90)       3400 (0.86)
+#4      daily (0.58)           net (0.54)         2700 (0.51)             lowered (0.76)    wedbush (0.71)    sandler (0.67)  objective (0.93)      10000 (0.89)      14000 (0.86)
+#5     annual (0.58)       trading (0.53)   parenthood (0.47)  aktiengesellschaft (0.75)    trading (0.71)     target (0.67)       8000 (0.93)       8000 (0.88)      20000 (0.85)
+#6     income (0.57)     consensus (0.53)       mizuho (0.47)             trading (0.74)      gamma (0.70)    wedbush (0.66)      10000 (0.93)      20000 (0.86)      10000 (0.84)
+#7       2700 (0.56)      estimate (0.50)        daily (0.47)                  50 (0.74)      50day (0.70)  “moderate (0.65)      20000 (0.92)      14000 (0.86)    reduced (0.83)
+#8       rate (0.55)        volume (0.50)  susquehanna (0.46)               daily (0.73)  “moderate (0.69)      50day (0.65)       2200 (0.92)      23000 (0.86)       8000 (0.82)
+#9   estimate (0.54)        mizuho (0.50)        upped (0.46)               upped (0.73)  objective (0.69)         50 (0.65)       3200 (0.92)       4000 (0.85)       3200 (0.81)
+#10   regular (0.54)  thunderstorm (0.49)     nicolaus (0.46)               piper (0.72)        kkr (0.69)    dropped (0.65)      23000 (0.92)    reduced (0.84)  citigroup (0.81)
+
+Target word: person
+            W=2 | D=50        W=2 | D=100         W=2 | D=200           W=4 | D=50       W=4 | D=100       W=4 | D=200        W=8 | D=50             W=8 | D=100       W=8 | D=200
+#1      suspect (0.81)        memo (0.73)          man (0.68)      petition (0.90)      turns (0.86)   petition (0.84)     grades (0.98)          exactly (0.96)       tell (0.91)
+#2         memo (0.80)     shotgun (0.72)      suspect (0.68)     resilient (0.90)     liking (0.86)    message (0.83)    exactly (0.98)          welcome (0.95)   anything (0.91)
+#3      shotgun (0.79)    question (0.72)      shotgun (0.67)       message (0.89)   solution (0.86)      turns (0.83)      added (0.97)            added (0.95)  recognize (0.91)
+#4    directive (0.77)     suspect (0.71)     question (0.67)        liking (0.89)   petition (0.85)   solution (0.83)  confident (0.97)             tell (0.94)      radio (0.90)
+#5         myth (0.77)     actress (0.70)    amendment (0.67)  dispensation (0.89)      truth (0.85)  resilient (0.83)        i’d (0.97)       understand (0.94)    welcome (0.90)
+#6    amendment (0.77)       trunk (0.69)       kelley (0.66)        moment (0.88)  situation (0.84)      truth (0.82)   anything (0.97)            leave (0.94)      added (0.90)
+#7       sleeps (0.77)         man (0.69)   inspection (0.66)      solution (0.88)  resilient (0.84)     liking (0.82)        fit (0.97)         deserves (0.94)        fit (0.90)
+#8     question (0.76)         lie (0.69)        cohen (0.64)         turns (0.88)     moment (0.84)        80s (0.82)      thing (0.97)  congratulations (0.94)     moment (0.90)
+#9   inspection (0.76)  inspection (0.69)     blessing (0.64)       sending (0.88)   slowdown (0.84)      truck (0.82)  recognize (0.97)        recognize (0.94)    exactly (0.90)
+#10        case (0.76)   amendment (0.69)  righthander (0.64)     recommend (0.87)       ride (0.84)  recommend (0.82)      let’s (0.97)         anything (0.94)       vote (0.89)
+
+Target word: using
+            W=2 | D=50        W=2 | D=100        W=2 | D=200         W=4 | D=50         W=4 | D=100         W=4 | D=200         W=8 | D=50         W=8 | D=100         W=8 | D=200
+#1         siri (0.74)        siri (0.65)   disorders (0.61)        siri (0.78)         siri (0.75)         menu (0.69)   clearance (0.93)       eating (0.87)       status (0.80)
+#2   standpoint (0.71)   disorders (0.64)    offering (0.58)        menu (0.76)  alternative (0.72)       animal (0.69)    stresses (0.92)    clearance (0.86)   experience (0.80)
+#3     enhances (0.70)    enhances (0.64)    avoiding (0.58)    drinking (0.76)      chatbot (0.70)         siri (0.67)      status (0.92)   experience (0.85)         give (0.80)
+#4    regarding (0.70)    offering (0.63)     cracked (0.58)    critical (0.73)         menu (0.70)    generator (0.67)      choice (0.90)       status (0.85)       eating (0.79)
+#5     receives (0.70)   regarding (0.63)  standpoint (0.58)    approach (0.73)     drinking (0.68)    exclusive (0.66)      lovely (0.90)         apps (0.84)     intimate (0.79)
+#6     avoiding (0.69)      gender (0.61)   regarding (0.58)    offering (0.73)       animal (0.68)  alternative (0.66)  experience (0.90)     intimate (0.84)     stresses (0.79)
+#7      graphic (0.69)     graphic (0.61)      within (0.58)         vpn (0.71)    disorders (0.67)     ensuring (0.66)    valuable (0.90)  perspective (0.84)  perspective (0.78)
+#8      thereby (0.69)    avoiding (0.60)        siri (0.57)    language (0.71)          vpn (0.67)     drinking (0.66)     covered (0.90)       deeper (0.83)        email (0.78)
+#9      cracked (0.69)  psilocybin (0.60)  psilocybin (0.57)         app (0.71)  generalized (0.67)     approach (0.64)       email (0.90)         give (0.83)        check (0.77)
+#10  excellency (0.68)      visual (0.59)    enhances (0.57)  psilocybin (0.70)    generator (0.66)       system (0.64)      nudged (0.90)      cracked (0.82)      cleanup (0.77)
+
+Target word: never
+             W=2 | D=50         W=2 | D=100        W=2 | D=200        W=4 | D=50      W=4 | D=100        W=4 | D=200       W=8 | D=50      W=8 | D=100      W=8 | D=200
+#1        always (0.82)       always (0.77)    actually (0.72)      quite (0.89)     quite (0.86)       quite (0.84)     doing (0.98)     doing (0.96)     doing (0.90)
+#2      actually (0.79)     actually (0.75)    probably (0.71)      knows (0.86)    always (0.80)      always (0.79)  thinking (0.97)        so (0.93)    didn’t (0.87)
+#3      probably (0.78)         ever (0.74)      always (0.71)     always (0.86)    retire (0.80)      retire (0.78)       why (0.96)    things (0.92)        so (0.87)
+#4       “didn’t (0.77)     probably (0.74)  definitely (0.67)    thought (0.85)   thought (0.80)     thought (0.77)        so (0.95)      even (0.91)    things (0.87)
+#5          ever (0.77)  fortunately (0.72)  eventually (0.67)         zs (0.83)     knows (0.79)        else (0.75)    things (0.95)     quite (0.91)      know (0.86)
+#6   fortunately (0.76)   eventually (0.71)      simply (0.66)       felt (0.83)    really (0.78)        felt (0.74)    really (0.95)      know (0.91)     quite (0.86)
+#7    eventually (0.76)   definitely (0.71)       maybe (0.65)     really (0.82)     words (0.78)         bad (0.73)       too (0.95)    always (0.91)      even (0.86)
+#8    definitely (0.76)       going” (0.69)     “didn’t (0.65)       else (0.82)      else (0.78)          me (0.73)    ronnie (0.95)    pretty (0.91)  thinking (0.86)
+#9        simply (0.75)       simply (0.68)        ever (0.65)       even (0.82)  actually (0.77)       words (0.73)    always (0.95)       how (0.91)      done (0.85)
+#10        this’ (0.75)        maybe (0.67)          ‘i (0.64)  something (0.81)       bad (0.76)  definitely (0.72)      very (0.95)  actually (0.90)    always (0.85)
+
+Target word: chief
+               W=2 | D=50           W=2 | D=100           W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200          W=8 | D=50         W=8 | D=100       W=8 | D=200
+#1       executive (0.79)       director (0.75)      executive (0.71)   director (0.88)  executive (0.85)  executive (0.86)    executive (0.97)    executive (0.95)  executive (0.93)
+#2          deputy (0.76)      executive (0.74)       director (0.70)  executive (0.86)   director (0.85)   director (0.84)     director (0.94)     director (0.93)   director (0.89)
+#3        director (0.76)       producer (0.70)            hse (0.69)    maktoum (0.85)   chairman (0.80)       vice (0.80)           km (0.93)      officer (0.90)   doubling (0.86)
+#4             hse (0.76)         deputy (0.69)  directorchief (0.67)      fumio (0.83)       vice (0.80)    maktoum (0.78)     doubling (0.93)     doubling (0.89)    officer (0.84)
+#5   directorchief (0.75)  directorchief (0.68)      secretary (0.65)     rashid (0.82)    maktoum (0.78)   chairman (0.77)       deputy (0.93)       deputy (0.89)    general (0.83)
+#6           fumio (0.74)            hse (0.68)       producer (0.65)        ceo (0.82)        215 (0.76)  president (0.74)      officer (0.93)           km (0.87)     deputy (0.82)
+#7        chairman (0.74)      secretary (0.67)         deputy (0.64)    francis (0.81)  president (0.75)        215 (0.74)  chairperson (0.92)  chairperson (0.87)         km (0.81)
+#8         maktoum (0.74)       chairman (0.66)       chairman (0.64)     alhaji (0.80)     rashid (0.74)     former (0.73)        josie (0.91)        msnbc (0.86)    michael (0.81)
+#9        producer (0.73)        founder (0.66)          prime (0.63)   chairman (0.79)         jr (0.73)        ceo (0.72)      michael (0.91)      general (0.86)  volunteer (0.81)
+#10       benjamin (0.73)          fumio (0.66)         arvind (0.63)  nathaniel (0.78)     alhaji (0.73)    francis (0.72)           st (0.91)        josie (0.85)  secretary (0.80)
+
+Target word: police
+           W=2 | D=50       W=2 | D=100      W=2 | D=200         W=4 | D=50           W=4 | D=100        W=4 | D=200         W=8 | D=50        W=8 | D=100        W=8 | D=200
+#1    officers (0.74)   officers (0.78)  officers (0.73)        fire (0.76)           fire (0.73)        fire (0.69)     duterte (0.95)       moved (0.87)    hospital (0.82)
+#2     council (0.69)       fire (0.65)   council (0.62)      edward (0.73)     overturned (0.72)  overturned (0.69)        shot (0.93)     duterte (0.86)        shot (0.81)
+#3       mayor (0.67)    council (0.65)      fire (0.60)       inbox (0.73)       officers (0.71)    officers (0.68)     concert (0.93)  reportedly (0.86)     duterte (0.81)
+#4      county (0.67)  officials (0.62)  district (0.60)     israeli (0.72)           raji (0.68)       inbox (0.64)    memorial (0.92)          jd (0.86)  reportedly (0.81)
+#5       burke (0.66)   sheriffs (0.61)  sheriffs (0.59)    officers (0.71)   spokesperson (0.68)     israeli (0.64)  republican (0.92)     claimed (0.85)    publicly (0.81)
+#6      exeter (0.66)         un (0.61)     ukiah (0.58)  overturned (0.71)        israeli (0.68)      passed (0.63)         car (0.92)        came (0.85)     concert (0.80)
+#7   evacuated (0.65)      ukiah (0.61)     mayor (0.58)       aaron (0.70)          inbox (0.67)    ballroom (0.62)         bbc (0.92)       court (0.84)       court (0.80)
+#8    sheriffs (0.65)    hussain (0.60)    exeter (0.57)          jd (0.69)  congressional (0.66)      burrow (0.62)     teenage (0.92)    sheriffs (0.84)      dental (0.79)
+#9     johnson (0.65)      chang (0.59)   hussain (0.57)    murdered (0.69)      principal (0.66)       emily (0.61)       threw (0.92)    hospital (0.84)    sheriffs (0.79)
+#10      lammy (0.64)   williams (0.57)     chang (0.56)   principal (0.69)         edward (0.66)    murdered (0.61)          ks (0.91)     fatally (0.84)       moved (0.79)
+
+Target word: billion
+            W=2 | D=50        W=2 | D=100      W=2 | D=200             W=4 | D=50            W=4 | D=100            W=4 | D=200                    W=8 | D=50                   W=8 | D=100                   W=8 | D=200
+#1     trillion (0.79)    trillion (0.76)   million (0.76)             122 (0.91)             122 (0.88)             122 (0.86)                    cap (0.96)                    cap (0.96)                    cap (0.91)
+#2      million (0.78)     million (0.75)  trillion (0.74)             145 (0.83)             145 (0.81)             145 (0.80)         capitalization (0.95)         capitalization (0.94)         capitalization (0.90)
+#3        ratio (0.72)     percent (0.68)     ratio (0.67)             129 (0.80)        trillion (0.76)        trillion (0.75)                  ratio (0.92)                  ratio (0.92)                  ratio (0.88)
+#4   collection (0.67)       ratio (0.67)   percent (0.62)              rs (0.80)             006 (0.75)             110 (0.74)                    peg (0.92)                    peg (0.90)                    peg (0.86)
+#5      percent (0.66)        mass (0.63)       400 (0.57)             006 (0.80)             110 (0.75)  capitalization (0.73)                     pe (0.91)                    283 (0.88)        pricetoearnings (0.85)
+#6          400 (0.65)         120 (0.63)     hills (0.57)             cap (0.79)            flea (0.74)             cap (0.73)  pricetoearningsgrowth (0.90)  pricetoearningsgrowth (0.88)                     pe (0.85)
+#7          120 (0.65)       hills (0.61)      mass (0.56)  capitalization (0.78)             cap (0.73)             006 (0.69)                    283 (0.90)                     pe (0.88)  pricetoearningsgrowth (0.84)
+#8        hills (0.64)         400 (0.60)     miles (0.55)           crore (0.78)  capitalization (0.73)            flea (0.69)        pricetoearnings (0.90)        pricetoearnings (0.87)                    162 (0.82)
+#9      village (0.62)    catholic (0.59)    barrel (0.53)        trillion (0.78)             129 (0.72)             129 (0.67)              presently (0.90)                  euros (0.87)                  euros (0.82)
+#10        mass (0.62)  collection (0.59)       120 (0.53)             110 (0.76)              rs (0.70)            £110 (0.66)                 spider (0.89)                dipping (0.86)                 market (0.81)
+
+Target word: great
+           W=2 | D=50        W=2 | D=100         W=2 | D=200         W=4 | D=50        W=4 | D=100        W=4 | D=200     W=8 | D=50    W=8 | D=100      W=8 | D=200
+#1        good (0.81)        good (0.79)         good (0.75)        good (0.86)        good (0.84)        good (0.82)       ” (0.97)       ” (0.93)    chance (0.89)
+#2         fun (0.76)        rare (0.71)         rare (0.69)       dream (0.84)  supportive (0.84)  supportive (0.81)   “this (0.96)   “this (0.93)  parallel (0.87)
+#3    positive (0.75)    positive (0.71)    wonderful (0.68)  supportive (0.84)     healthy (0.82)     strange (0.79)     bit (0.96)  little (0.92)    moment (0.87)
+#4   wonderful (0.74)   wonderful (0.70)          fun (0.67)     healthy (0.83)       dream (0.82)   dashboard (0.78)  little (0.96)     bit (0.91)     thing (0.86)
+#5        rare (0.74)   fantastic (0.67)   comparison (0.65)        safe (0.83)     strange (0.82)       dream (0.78)   shine (0.96)    hell (0.91)         ” (0.86)
+#6    tangible (0.72)    tangible (0.67)     positive (0.65)     perfect (0.83)   dangerous (0.81)   tightknit (0.77)     big (0.95)   makes (0.91)       bit (0.86)
+#7       dirty (0.72)         fun (0.67)    fantastic (0.64)   dashboard (0.82)   dashboard (0.81)        safe (0.77)   makes (0.95)    here (0.90)      here (0.86)
+#8   fantastic (0.71)     solving (0.66)  trustworthy (0.64)   tightknit (0.82)      grower (0.81)   confident (0.76)   tough (0.95)     web (0.90)       way (0.86)
+#9   practical (0.71)  comparison (0.66)      pokémon (0.64)      better (0.82)   tightknit (0.81)  insightful (0.76)    here (0.95)    soup (0.90)       fit (0.86)
+#10     unique (0.71)  passionate (0.66)         nice (0.64)    markedly (0.81)       skill (0.80)        hard (0.76)  night” (0.94)  chance (0.90)   suppose (0.86)
+
+Target word: wanted
+           W=2 | D=50        W=2 | D=100     W=2 | D=200       W=4 | D=50      W=4 | D=100      W=4 | D=200         W=8 | D=50        W=8 | D=100        W=8 | D=200
+#1     decided (0.85)       joked (0.81)    joked (0.77)     burns (0.88)     tries (0.86)     tries (0.85)       going (0.96)          go (0.94)          go (0.91)
+#2        glad (0.83)     decided (0.81)  decided (0.77)  thrilled (0.88)   briefly (0.85)   briefly (0.84)  personally (0.96)       write (0.93)       write (0.90)
+#3     thought (0.82)       tries (0.80)    tried (0.76)     tries (0.88)  thrilled (0.85)      wish (0.83)    thrilled (0.96)      about” (0.92)       going (0.90)
+#4       tried (0.82)        glad (0.79)    tries (0.76)     meant (0.88)     meant (0.84)     burns (0.83)    terrible (0.96)    thrilled (0.92)  personally (0.89)
+#5       joked (0.81)       tried (0.79)     glad (0.75)   briefly (0.87)      wish (0.84)     meant (0.83)          go (0.95)  personally (0.92)          os (0.89)
+#6     tempted (0.80)        want (0.78)     want (0.75)     asked (0.87)     burns (0.83)     tried (0.81)          os (0.95)       going (0.92)      trying (0.89)
+#7        want (0.80)     thought (0.77)   nudged (0.74)      wish (0.87)   explain (0.82)  thrilled (0.81)    relative (0.95)    husbands (0.92)    thrilled (0.88)
+#8     manages (0.80)      nudged (0.77)  thought (0.74)    breaks (0.86)     tried (0.82)    talked (0.81)      aliens (0.95)    terrible (0.91)    husbands (0.88)
+#9   confessed (0.80)   apologise (0.76)    hoped (0.73)   singing (0.86)      went (0.82)   explain (0.81)    husbands (0.95)          os (0.91)      about” (0.87)
+#10       felt (0.79)  threatened (0.76)  anxious (0.73)     tried (0.86)    talked (0.81)      went (0.80)       them” (0.95)      trying (0.91)    terrible (0.87)
+
+Target word: human
+                W=2 | D=50          W=2 | D=100            W=2 | D=200             W=4 | D=50        W=4 | D=100        W=4 | D=200           W=8 | D=50        W=8 | D=100         W=8 | D=200
+#1     departmental (0.75)        mental (0.68)       insurance (0.62)         quality (0.84)     quality (0.80)     quality (0.73)     twothirds (0.98)   twothirds (0.96)    twothirds (0.92)
+#2            water (0.75)     insurance (0.66)          mental (0.62)       wellbeing (0.77)       asian (0.79)       asian (0.70)  prosecutions (0.97)   lowincome (0.95)     reducing (0.92)
+#3        education (0.74)     education (0.65)           local (0.61)           asian (0.77)   wellbeing (0.77)   wellbeing (0.67)        tucker (0.97)  identities (0.94)       deaths (0.91)
+#4            local (0.74)       digital (0.62)           goods (0.60)        heritage (0.77)     stuffed (0.73)    heritage (0.66)           snp (0.96)        self (0.94)         rape (0.91)
+#5   transportation (0.73)         local (0.61)          energy (0.59)       standards (0.76)         art (0.73)  facilitate (0.65)        deaths (0.96)      deaths (0.94)  forgiveness (0.90)
+#6         security (0.72)    chesapeake (0.61)          global (0.59)  infrastructure (0.76)      health (0.72)    monetary (0.65)         bills (0.96)    reducing (0.94)   identities (0.90)
+#7           mental (0.72)     addiction (0.61)             oil (0.59)        economic (0.76)  population (0.72)  population (0.65)        remain (0.96)     courage (0.94)    policemen (0.90)
+#8          digital (0.71)  multilateral (0.61)  transportation (0.59)        benefits (0.75)      mental (0.72)   community (0.65)            54 (0.96)        2013 (0.94)        onset (0.90)
+#9              gas (0.70)     wellbeing (0.61)          public (0.58)      population (0.74)       shady (0.72)     harmony (0.65)     introduce (0.96)     suffolk (0.94)     counties (0.90)
+#10          health (0.70)       ethical (0.60)       education (0.58)     development (0.74)    heritage (0.72)     economy (0.65)          duty (0.96)        duty (0.93)      receipt (0.90)
+
+Target word: community
+                W=2 | D=50            W=2 | D=100            W=2 | D=200             W=4 | D=50              W=4 | D=100         W=4 | D=200          W=8 | D=50        W=8 | D=100       W=8 | D=200
+#1          state’s (0.76)         broader (0.70)          sector (0.69)           banks (0.83)       environment (0.80)  environment (0.78)       future (0.97)       adapt (0.93)   approach (0.91)
+#2       displaying (0.76)          sector (0.69)         broader (0.66)     bureaucracy (0.83)      highlighting (0.79)    workforce (0.74)        wider (0.96)      future (0.93)      adapt (0.91)
+#3   infrastructure (0.76)     environment (0.69)  infrastructure (0.66)  contraceptives (0.82)             wider (0.78)     ensuring (0.74)    tomorrow” (0.96)       wider (0.93)     deeply (0.91)
+#4             coke (0.76)          public (0.69)          public (0.66)     environment (0.82)            future (0.77)       future (0.74)         lose (0.95)    approach (0.92)     future (0.91)
+#5          broader (0.76)  infrastructure (0.69)         state’s (0.65)       pipelines (0.81)          ensuring (0.77)      process (0.73)  stakeholder (0.95)  progresses (0.92)      wider (0.91)
+#6        political (0.75)    corporations (0.68)     environment (0.65)       framework (0.81)         ecosystem (0.77)  bureaucracy (0.73)     countrys (0.95)      deeply (0.92)   thorough (0.90)
+#7           ethnic (0.75)         state’s (0.68)         economy (0.64)           cyber (0.80)              safe (0.77)      customs (0.73)     thorough (0.95)     further (0.91)       safe (0.88)
+#8           sector (0.75)         quality (0.68)      production (0.63)           wider (0.80)    contraceptives (0.76)      economy (0.73)       deeply (0.95)    thorough (0.91)   emphasis (0.88)
+#9           shapes (0.74)      displaying (0.68)     warehousing (0.62)          public (0.80)  interoperability (0.76)    neighbors (0.72)   recognises (0.95)    hormones (0.91)   hormones (0.88)
+#10          public (0.74)       political (0.67)         natural (0.62)       workforce (0.80)           economy (0.76)        wider (0.72)      further (0.95)    brighter (0.91)  determine (0.87)
+
+Target word: year
+         W=2 | D=50     W=2 | D=100     W=2 | D=200      W=4 | D=50     W=4 | D=100     W=4 | D=200       W=8 | D=50       W=8 | D=100       W=8 | D=200
+#1      week (0.92)     week (0.91)     week (0.87)     week (0.89)     week (0.89)     week (0.88)     final (0.90)       week (0.87)       week (0.82)
+#2     month (0.85)   summer (0.83)    month (0.80)   season (0.81)   season (0.80)   season (0.83)   victory (0.90)    seasons (0.83)    earlier (0.80)
+#3    summer (0.84)    month (0.82)   summer (0.80)     half (0.77)    month (0.77)    month (0.75)      game (0.90)    closing (0.82)     season (0.80)
+#4    season (0.83)   season (0.80)   season (0.78)  weekend (0.77)     half (0.74)  weekend (0.74)   weekend (0.90)     season (0.82)  newcastle (0.78)
+#5   weekend (0.78)  weekend (0.73)  weekend (0.76)   earned (0.76)     game (0.73)  earlier (0.71)      week (0.90)    earlier (0.82)       game (0.78)
+#6    ninety (0.78)  months” (0.71)   ninety (0.72)     game (0.76)  weekend (0.72)     half (0.71)     korea (0.89)  newcastle (0.82)      month (0.76)
+#7    sundae (0.73)   ninety (0.71)   year’s (0.68)    month (0.76)  earlier (0.71)   spring (0.69)   expires (0.89)    coaster (0.82)  spiraling (0.76)
+#8    year’s (0.72)   year’s (0.68)   week’s (0.67)   spring (0.76)       12 (0.68)     game (0.68)  election (0.89)      ended (0.81)    closing (0.76)
+#9     year” (0.71)   week’s (0.68)  months” (0.66)     days (0.75)   spring (0.68)   months (0.66)      half (0.89)      korea (0.80)       half (0.75)
+#10  months” (0.69)   decade (0.68)   decade (0.65)  earlier (0.75)   earned (0.68)       12 (0.65)   seasons (0.89)  spiraling (0.80)      sixth (0.75)
+
+Target word: place
+             W=2 | D=50        W=2 | D=100       W=2 | D=200         W=4 | D=50       W=4 | D=100       W=4 | D=200          W=8 | D=50          W=8 | D=100       W=8 | D=200
+#1        effect (0.73)   pinehurst (0.71)       peru (0.67)      coming (0.81)    midweek (0.80)   sleeping (0.75)     progress (0.97)      progress (0.94)   progress (0.91)
+#2          peru (0.72)        peru (0.69)  pinehurst (0.64)     germany (0.81)     coming (0.80)  handcuffs (0.74)      respond (0.95)       tactics (0.93)  inclusive (0.89)
+#3     pinehurst (0.72)        sled (0.67)     effect (0.61)   achieving (0.81)  handcuffs (0.79)     zoning (0.74)        seats (0.95)     achieving (0.93)  scenarios (0.88)
+#4        coming (0.72)      effect (0.66)       vets (0.61)   handcuffs (0.80)     zoning (0.77)    midweek (0.74)  remembrance (0.95)     scenarios (0.92)    tactics (0.88)
+#5         tuned (0.70)     ventnor (0.65)       sled (0.61)  interested (0.80)    germany (0.77)      garda (0.74)       horror (0.95)        adapts (0.92)      seats (0.88)
+#6   principal’s (0.69)       tuned (0.65)      tuned (0.60)       garda (0.79)   sleeping (0.77)  pinehurst (0.74)         wary (0.95)   remembrance (0.92)       hard (0.88)
+#7       auction (0.69)     auction (0.65)  somewhere (0.60)        gear (0.79)       2005 (0.76)      xreal (0.73)      refused (0.95)     inclusive (0.92)  achieving (0.88)
+#8          vets (0.69)     bounced (0.64)    ventnor (0.59)    sleeping (0.79)      xreal (0.76)  kitchener (0.73)      looking (0.95)       serious (0.92)     adapts (0.88)
+#9         940am (0.69)  liverpools (0.64)    bounced (0.59)     midweek (0.78)      garda (0.76)   engulfed (0.73)       adapts (0.95)  saintgermain (0.92)     horror (0.88)
+#10      falling (0.68)      coming (0.64)    midweek (0.59)     yenagoa (0.78)   starting (0.76)      trial (0.73)    achieving (0.95)         shown (0.91)    serious (0.88)
+
+Target word: man
+          W=2 | D=50      W=2 | D=100      W=2 | D=200         W=4 | D=50        W=4 | D=100        W=4 | D=200       W=8 | D=50         W=8 | D=100         W=8 | D=200
+#1      woman (0.92)     woman (0.88)     woman (0.87)       woman (0.90)       woman (0.88)       woman (0.86)     woman (0.95)          car (0.94)        woman (0.91)
+#2     “we’ve (0.82)   shotgun (0.74)   shotgun (0.71)      father (0.89)      father (0.86)      father (0.85)      girl (0.95)        woman (0.93)          car (0.90)
+#3   attacked (0.79)  attacked (0.73)      girl (0.71)      crooks (0.85)      crooks (0.82)         boy (0.78)       car (0.95)       turned (0.93)         girl (0.90)
+#4       girl (0.78)    father (0.71)    father (0.70)         boy (0.84)  girlfriend (0.81)        baby (0.78)  admitted (0.95)         girl (0.92)       turned (0.89)
+#5    shotgun (0.78)      girl (0.71)    “we’ve (0.69)  girlfriend (0.83)        shot (0.81)  girlfriend (0.77)    turned (0.95)        marry (0.92)     attacked (0.87)
+#6     father (0.76)    “we’ve (0.69)       kid (0.68)      mother (0.82)   custodial (0.80)        shot (0.77)     marry (0.94)        threw (0.92)  longrunning (0.87)
+#7    injured (0.74)    person (0.69)    person (0.68)    suffered (0.82)         boy (0.80)      moment (0.76)     cried (0.94)     admitted (0.92)     admitted (0.87)
+#8    davison (0.74)       kid (0.69)  attacked (0.67)     sending (0.82)    suffered (0.80)      mother (0.76)     threw (0.94)  longrunning (0.92)         kona (0.86)
+#9     person (0.73)     cohen (0.67)     cohen (0.67)      moment (0.81)         hit (0.80)         hit (0.75)  attacked (0.93)       saliba (0.91)       mother (0.86)
+#10    doctor (0.73)      trio (0.67)       boy (0.65)  discovered (0.81)      moment (0.80)      crooks (0.75)    mother (0.93)     attacked (0.91)         came (0.85)
+
+Target word: worked
+           W=2 | D=50      W=2 | D=100      W=2 | D=200           W=4 | D=50          W=4 | D=100        W=4 | D=200            W=8 | D=50         W=8 | D=100         W=8 | D=200
+#1    appeared (0.81)  appeared (0.77)  appeared (0.75)         grown (0.87)      luxuries (0.87)       grown (0.85)        caricom (0.97)       videos (0.95)      caricom (0.92)
+#2       slept (0.78)    stayed (0.74)    stayed (0.71)      luxuries (0.87)         grown (0.85)       fines (0.82)        nowhere (0.97)      caricom (0.95)          kid (0.92)
+#3      stayed (0.76)  remained (0.72)    looked (0.70)         tokyo (0.86)    “continued (0.84)    luxuries (0.80)          walks (0.97)  inspiration (0.95)        reset (0.92)
+#4    remained (0.76)    looked (0.72)   arrived (0.70)         fines (0.86)         fines (0.84)    arriving (0.80)       senators (0.97)          ten (0.95)          go” (0.91)
+#5   instilled (0.76)    walked (0.71)    gotten (0.69)         drunk (0.86)  aggressively (0.83)  cooperated (0.79)          drunk (0.97)     senators (0.95)         sing (0.91)
+#6      walked (0.76)     grown (0.69)       met (0.69)        stride (0.85)         drunk (0.83)       drunk (0.79)           sing (0.97)          boo (0.95)  inspiration (0.91)
+#7      looked (0.76)     slept (0.69)    agreed (0.69)       tattoos (0.85)      arriving (0.82)     engaged (0.79)        herself (0.97)  infestation (0.94)    protocols (0.91)
+#8        gone (0.75)   arrived (0.69)     stood (0.69)  aggressively (0.85)    cooperated (0.82)     weighed (0.79)            ten (0.97)        count (0.94)      overdue (0.91)
+#9      played (0.74)     stood (0.69)  remained (0.68)      journeys (0.85)       payroll (0.81)      openly (0.78)  rollercoaster (0.97)       excise (0.94)       videos (0.91)
+#10      grown (0.74)    fallen (0.69)     slept (0.68)          luck (0.85)    campaigned (0.81)  campaigned (0.78)           youd (0.97)      footage (0.94)     mcdonogh (0.91)
+
+Target word: already
+            W=2 | D=50        W=2 | D=100        W=2 | D=200        W=4 | D=50      W=4 | D=100       W=4 | D=200       W=8 | D=50       W=8 | D=100        W=8 | D=200
+#1   reportedly (0.78)  reportedly (0.70)     clearly (0.70)        yet (0.84)    merwin (0.80)       done (0.81)    issues (0.93)      wrong (0.89)       wrong (0.80)
+#2        still (0.74)       still (0.69)  reportedly (0.70)       done (0.83)      done (0.79)     “these (0.78)    longer (0.93)     longer (0.88)       can’t (0.78)
+#3   repeatedly (0.72)      lifers (0.67)  repeatedly (0.67)     “these (0.82)   renewed (0.78)       gone (0.76)     wrong (0.93)    believe (0.87)      longer (0.77)
+#4         done (0.71)  repeatedly (0.66)       still (0.64)       gone (0.81)    “these (0.78)   guyanese (0.75)     faces (0.92)      clear (0.86)         fit (0.77)
+#5      clearly (0.71)     clearly (0.66)        done (0.63)     merwin (0.80)   clearly (0.77)        yet (0.74)      ever (0.92)        fit (0.86)       clear (0.77)
+#6          icj (0.69)        done (0.63)  instituted (0.61)    clearly (0.80)       yet (0.77)      rain” (0.72)      hell (0.92)      can’t (0.86)     believe (0.76)
+#7        never (0.69)   outgoings (0.62)    publicly (0.61)       seen (0.80)  guyanese (0.76)       seen (0.72)       far (0.92)  trendline (0.86)  absolutely (0.76)
+#8       always (0.68)   attracted (0.62)       inked (0.60)      ‘well (0.79)      gone (0.76)  forgotten (0.72)       fit (0.92)      there (0.85)     problem (0.76)
+#9    rodrigues (0.68)  instituted (0.62)   attracted (0.60)   stronger (0.79)     rain” (0.75)    clearly (0.72)     thing (0.91)      folks (0.85)  organizing (0.76)
+#10   outgoings (0.68)       inked (0.62)      always (0.60)  plaintiff (0.78)  steadily (0.74)     merwin (0.71)  commonly (0.91)       mean (0.85)  completely (0.76)
+
+Target word: recently
+            W=2 | D=50        W=2 | D=100        W=2 | D=200           W=4 | D=50          W=4 | D=100          W=4 | D=200             W=8 | D=50        W=8 | D=100        W=8 | D=200
+#1   previously (0.78)         vaz (0.71)  previously (0.70)        spider (0.80)        spider (0.76)        spider (0.74)      university (0.95)          14 (0.88)          14 (0.80)
+#2          vaz (0.74)  previously (0.70)   rodrigues (0.69)     homeowner (0.74)       sparked (0.71)         begun (0.71)            20th (0.94)     interim (0.87)      office (0.79)
+#3     publicly (0.73)   rodrigues (0.69)         vaz (0.68)         begun (0.74)     homeowner (0.71)  favorability (0.70)  disappointment (0.94)    highness (0.87)        20th (0.79)
+#4    rodrigues (0.72)     hardman (0.66)     hardman (0.65)         erick (0.70)         begun (0.70)     homeowner (0.68)        highness (0.94)  university (0.87)  university (0.78)
+#5      hardman (0.70)    publicly (0.62)    publicly (0.65)         hefty (0.70)         penny (0.69)       sparked (0.68)             abc (0.94)      week’s (0.86)     interim (0.78)
+#6         pera (0.68)  journalist (0.60)      “we’ve (0.59)            mp (0.70)        factor (0.67)        factor (0.68)          office (0.93)    waterloo (0.86)     october (0.78)
+#7        badly (0.65)       badly (0.59)  exxonmobil (0.58)  favorability (0.70)  favorability (0.67)      epidemic (0.65)          athens (0.93)      office (0.86)       abuja (0.78)
+#8   journalist (0.64)      “we’ve (0.59)         had (0.57)       sparked (0.69)       frankly (0.66)         penny (0.65)           ‘it’s (0.93)          91 (0.86)      week’s (0.77)
+#9       “we’ve (0.64)     rodgers (0.57)    declared (0.57)        factor (0.69)        hobson (0.66)       frankly (0.65)           north (0.93)   professor (0.86)      athens (0.77)
+#10        firm (0.63)        pera (0.57)     mcguire (0.57)     treasurer (0.69)        become (0.65)            mp (0.64)         solomon (0.93)      series (0.86)    highness (0.77)
+
+Target word: woman
+           W=2 | D=50      W=2 | D=100      W=2 | D=200         W=4 | D=50        W=4 | D=100      W=4 | D=200        W=8 | D=50        W=8 | D=100       W=8 | D=200
+#1         man (0.92)       man (0.88)       man (0.87)      father (0.90)         man (0.88)       man (0.86)     turned (0.97)      turned (0.95)     turned (0.92)
+#2     shotgun (0.83)   shotgun (0.81)    father (0.77)         man (0.90)      father (0.88)    father (0.85)  impresses (0.97)       carer (0.95)  impresses (0.91)
+#3    attacked (0.81)    father (0.78)   shotgun (0.76)        shot (0.89)        shot (0.86)   teacher (0.84)     father (0.96)    comedian (0.94)      carer (0.91)
+#4      “we’ve (0.81)  resident (0.72)      trio (0.73)     teacher (0.87)  girlfriend (0.85)      shot (0.84)     mother (0.96)      mother (0.94)        man (0.91)
+#5      father (0.80)  chandler (0.72)  attacked (0.72)         hit (0.86)      silver (0.85)       hit (0.83)      karen (0.96)   impresses (0.94)        car (0.91)
+#6        girl (0.80)  attacked (0.72)      shot (0.71)         car (0.85)     teacher (0.85)    silver (0.83)    stopped (0.96)    prepares (0.94)     mother (0.90)
+#7     davison (0.77)      trio (0.72)  resident (0.71)    suffered (0.85)         hit (0.85)     knife (0.81)     waived (0.96)       karen (0.93)       girl (0.90)
+#8      doctor (0.77)       boy (0.71)       kid (0.71)  girlfriend (0.85)    suffered (0.84)     roger (0.81)      carer (0.96)        hits (0.93)   attacked (0.90)
+#9    resident (0.76)       kid (0.71)  chandler (0.70)     balloon (0.85)         car (0.83)  suffered (0.80)   comedian (0.96)         man (0.93)      cried (0.89)
+#10  30yearold (0.76)      shot (0.71)    doctor (0.70)     vehicle (0.84)     vehicle (0.83)   vehicle (0.80)     saliba (0.96)  girlfriend (0.93)     father (0.89)
+
+Target word: looking
+           W=2 | D=50       W=2 | D=100       W=2 | D=200           W=4 | D=50           W=4 | D=100          W=4 | D=200        W=8 | D=50         W=8 | D=100       W=8 | D=200
+#1       ready (0.83)      ready (0.79)      ready (0.80)          self (0.89)           self (0.86)          self (0.82)       bear (0.98)    confusion (0.96)      write (0.94)
+#2    prepared (0.81)   grateful (0.76)   prepared (0.74)      prepared (0.89)       prepared (0.84)      prepared (0.82)  confusion (0.98)        seems (0.96)    drivers (0.94)
+#3      paying (0.80)   prepared (0.75)    waiting (0.73)      fabulous (0.88)        flowing (0.82)      fabulous (0.81)       stop (0.98)        write (0.96)   prestige (0.93)
+#4     waiting (0.79)     primed (0.75)     primed (0.73)       flowing (0.87)          input (0.82)          step (0.80)    respond (0.98)  explanation (0.96)    wanting (0.93)
+#5     excited (0.78)    waiting (0.74)   grateful (0.71)         input (0.87)      preferred (0.82)         input (0.80)     adapts (0.98)      drivers (0.96)    respond (0.93)
+#6     bracing (0.77)     suited (0.72)    excited (0.70)      suitable (0.86)   disabilities (0.82)          easy (0.79)  somewhere (0.97)      respond (0.96)     irfaan (0.93)
+#7      primed (0.77)      sorry (0.72)      groom (0.70)     preferred (0.86)           easy (0.82)          keen (0.78)    drivers (0.97)         stop (0.95)       fall (0.93)
+#8     gearing (0.77)      yours (0.71)   suitable (0.69)          easy (0.86)           keen (0.82)  disabilities (0.78)    headset (0.97)       easier (0.95)       come (0.93)
+#9   appealing (0.76)  appealing (0.71)   woodward (0.69)       talking (0.86)  interrogation (0.81)      normally (0.78)      hints (0.97)         bear (0.95)  confusion (0.93)
+#10   stepping (0.76)   stepping (0.70)  desperate (0.69)  disabilities (0.86)           step (0.81)        bright (0.78)     admits (0.97)        relax (0.95)   yourself (0.93)
+
+Target word: saturday
+           W=2 | D=50       W=2 | D=100       W=2 | D=200        W=4 | D=50      W=4 | D=100      W=4 | D=200           W=8 | D=50          W=8 | D=100      W=8 | D=200
+#1      sunday (0.93)     sunday (0.89)     sunday (0.87)     sunday (0.93)    sunday (0.93)    sunday (0.91)        sunday (0.95)        sunday (0.93)    sunday (0.91)
+#2      monday (0.85)     friday (0.82)   thursday (0.82)      night (0.84)        23 (0.84)  thursday (0.81)      arrested (0.91)            19 (0.88)      2024 (0.84)
+#3      friday (0.85)     monday (0.82)     monday (0.81)   thursday (0.82)  thursday (0.84)         9 (0.81)            11 (0.90)          hall (0.85)        19 (0.84)
+#4    thursday (0.84)   thursday (0.82)     friday (0.80)         23 (0.82)     night (0.84)   tuesday (0.80)            19 (0.90)          2024 (0.85)  arrested (0.82)
+#5        july (0.84)    tuesday (0.81)    tuesday (0.79)          9 (0.82)  november (0.84)     night (0.80)            26 (0.89)      arrested (0.85)        10 (0.81)
+#6        sept (0.84)  september (0.80)  wednesday (0.77)        aug (0.82)         8 (0.83)         8 (0.80)        earned (0.89)  hospitalized (0.85)  november (0.81)
+#7   september (0.83)       july (0.79)  september (0.77)    tuesday (0.81)         9 (0.83)      sept (0.79)            23 (0.89)         eight (0.85)     april (0.80)
+#8     tuesday (0.83)       sept (0.79)       sept (0.77)       june (0.81)      sept (0.83)    friday (0.78)          2024 (0.88)          1970 (0.84)  goodison (0.80)
+#9         nov (0.80)  wednesday (0.78)       july (0.74)  september (0.80)   tuesday (0.82)        23 (0.78)         march (0.88)      goodison (0.83)     march (0.80)
+#10    october (0.80)       june (0.76)   february (0.74)     monday (0.80)      2024 (0.82)      june (0.78)  hospitalized (0.88)      november (0.83)     hours (0.79)
+
+Target word: company
+           W=2 | D=50         W=2 | D=100        W=2 | D=200           W=4 | D=50          W=4 | D=100          W=4 | D=200        W=8 | D=50       W=8 | D=100          W=8 | D=200
+#1   30yearold (0.66)    manager’s (0.63)   presently (0.61)     presently (0.82)     presently (0.78)     presently (0.79)      cisco (0.93)       note (0.90)     “neutral” (0.87)
+#2       stock (0.65)      trust’s (0.60)  producer’s (0.57)         “buy” (0.82)         “buy” (0.77)         “buy” (0.78)     report (0.92)     report (0.90)        report (0.87)
+#3        firm (0.65)    presently (0.59)   manager’s (0.57)     “neutral” (0.81)     “neutral” (0.76)     “neutral” (0.77)       note (0.91)  “neutral” (0.89)          note (0.87)
+#4        hong (0.65)         firm (0.58)        firm (0.56)   crowdstrike (0.81)   crowdstrike (0.75)  “overweight” (0.74)       2700 (0.90)       2700 (0.89)       weight” (0.86)
+#5     secured (0.62)   producer’s (0.56)       stock (0.55)    business’s (0.78)  “overweight” (0.74)   crowdstrike (0.73)    weight” (0.90)      cisco (0.89)       “market (0.86)
+#6   presently (0.61)        stock (0.55)    incident (0.55)           122 (0.77)          firm (0.74)        firm’s (0.73)      12500 (0.90)    weight” (0.88)          2700 (0.85)
+#7        band (0.61)   operator’s (0.54)  operator’s (0.54)        firm’s (0.77)    business’s (0.72)    business’s (0.73)    stanley (0.90)    “market (0.88)         12500 (0.85)
+#8      touted (0.60)  established (0.54)       setup (0.53)  “overweight” (0.76)        firm’s (0.72)       “market (0.72)    “market (0.89)      “buy” (0.88)  “overweight” (0.85)
+#9       party (0.60)      giant’s (0.54)  calculated (0.53)           254 (0.74)  “outperform” (0.72)        “equal (0.72)      21300 (0.89)      12500 (0.88)         cisco (0.84)
+#10    giant’s (0.60)          ars (0.54)     trust’s (0.53)       weight” (0.74)       weight” (0.71)  “outperform” (0.71)  “neutral” (0.89)      21300 (0.87)         “buy” (0.84)
+
+Target word: season
+            W=2 | D=50       W=2 | D=100       W=2 | D=200      W=4 | D=50       W=4 | D=100       W=4 | D=200            W=8 | D=50        W=8 | D=100         W=8 | D=200
+#1       summer (0.87)     summer (0.82)     summer (0.80)     game (0.86)       game (0.84)       week (0.83)           game (0.95)        game (0.92)         game (0.90)
+#2      weekend (0.84)       year (0.80)       year (0.78)     week (0.82)       week (0.83)       year (0.83)         ruling (0.94)      played (0.89)       played (0.87)
+#3         year (0.83)       week (0.77)       week (0.76)     year (0.81)       year (0.80)       game (0.78)        delayed (0.93)       bound (0.88)     election (0.84)
+#4         week (0.83)    weekend (0.76)    weekend (0.75)  session (0.81)    weekend (0.79)    weekend (0.77)       election (0.93)    election (0.88)      weekend (0.84)
+#5   appearance (0.76)    session (0.71)    session (0.66)   league (0.80)      final (0.78)      games (0.76)         played (0.93)     weekend (0.88)        tally (0.83)
+#6      session (0.76)    morning (0.69)     week’s (0.66)    final (0.80)    session (0.77)     summer (0.75)  conservatives (0.92)         nix (0.87)        field (0.83)
+#7        year” (0.74)    months” (0.67)      month (0.65)  weekend (0.79)     league (0.77)     ending (0.74)          times (0.92)       field (0.87)      enjoyed (0.83)
+#8        month (0.73)      month (0.66)        mlb (0.64)    games (0.79)      games (0.77)    session (0.73)        bengals (0.92)       rainy (0.87)        rainy (0.82)
+#9    performer (0.73)     statue (0.65)  performer (0.64)   summer (0.79)  beginning (0.75)     league (0.73)        expires (0.92)     enjoyed (0.87)          hit (0.82)
+#10         leg (0.72)  performer (0.65)    months” (0.64)   earned (0.78)      fifth (0.74)  preseason (0.72)       holyhead (0.92)  conference (0.87)  extradition (0.82)
+
+Target word: january
+           W=2 | D=50       W=2 | D=100       W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200       W=8 | D=50      W=8 | D=100       W=8 | D=200
+#1       april (0.95)   february (0.92)      april (0.92)  september (0.94)  september (0.94)  september (0.92)      20th (0.96)   october (0.92)   november (0.87)
+#2    november (0.94)      april (0.91)      march (0.91)   february (0.94)   february (0.94)   february (0.92)      11am (0.95)      20th (0.92)       11am (0.86)
+#3    february (0.94)   november (0.91)   february (0.91)      april (0.93)      april (0.92)    october (0.91)  november (0.95)  november (0.91)    october (0.85)
+#4       march (0.94)       june (0.91)   november (0.91)    october (0.93)    october (0.91)      april (0.90)         6 (0.95)      11am (0.90)   thursday (0.85)
+#5        june (0.94)      march (0.91)       june (0.90)       july (0.91)  wednesday (0.90)  wednesday (0.89)   october (0.95)  thursday (0.90)          6 (0.85)
+#6   september (0.93)   december (0.90)       july (0.90)  wednesday (0.90)     friday (0.90)       july (0.88)        21 (0.95)         6 (0.90)       20th (0.85)
+#7        july (0.93)       july (0.89)  september (0.89)     friday (0.89)       july (0.90)     august (0.87)      2021 (0.94)     seven (0.90)     monday (0.85)
+#8    december (0.92)  september (0.88)     august (0.88)   november (0.89)       june (0.89)       june (0.87)     seven (0.94)      2021 (0.90)  wednesday (0.84)
+#9      august (0.92)    october (0.88)   december (0.88)   thursday (0.89)   november (0.89)   thursday (0.86)        23 (0.94)        21 (0.89)         19 (0.83)
+#10    october (0.92)     august (0.88)    october (0.87)       june (0.89)      march (0.89)     friday (0.86)      hays (0.93)      acre (0.89)    tuesday (0.83)
+
+Target word: research
+           W=2 | D=50        W=2 | D=100       W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200     W=8 | D=50     W=8 | D=100     W=8 | D=200
+#1     weighed (0.66)     weighed (0.62)    weighed (0.62)       note (0.84)       note (0.78)     report (0.72)  report (0.95)   report (0.95)   report (0.94)
+#2    invested (0.61)    equities (0.61)   equities (0.59)     report (0.81)     report (0.77)       note (0.68)    note (0.94)     note (0.93)     note (0.92)
+#3        mpox (0.58)    sellside (0.59)   sellside (0.58)      “buy” (0.77)  disclosed (0.71)     stifel (0.68)   36000 (0.91)     4000 (0.88)     gave (0.85)
+#4    equities (0.58)     ratings (0.53)       mpox (0.49)     stifel (0.76)      “buy” (0.70)      “buy” (0.66)  “equal (0.90)     gave (0.88)   “equal (0.84)
+#5       faith (0.54)        1948 (0.53)  wednesday (0.49)  “neutral” (0.74)     stifel (0.70)        5th (0.65)    4000 (0.90)    36000 (0.87)     4000 (0.83)
+#6    resulted (0.54)  barrington (0.52)    ratings (0.49)    company (0.73)    “market (0.69)    “market (0.64)    6500 (0.90)     3400 (0.86)     6500 (0.82)
+#7      report (0.53)   liquidity (0.51)    wedbush (0.48)    “market (0.72)  “neutral” (0.68)  “neutral” (0.63)    gave (0.90)   “equal (0.86)  weight” (0.82)
+#8     course” (0.53)      report (0.51)      clues (0.48)   “inline” (0.71)   perform” (0.68)  disclosed (0.63)    3400 (0.89)    22000 (0.85)     3400 (0.81)
+#9    sellside (0.52)       clues (0.50)  liquidity (0.47)        5th (0.71)   acquired (0.67)    company (0.62)   22000 (0.89)  company (0.84)  company (0.81)
+#10  wednesday (0.51)     wedbush (0.50)     £15000 (0.47)  disclosed (0.70)   decrease (0.65)   acquired (0.62)    1300 (0.87)     17th (0.84)    22000 (0.81)
+
+Target word: women
+             W=2 | D=50         W=2 | D=100         W=2 | D=200             W=4 | D=50         W=4 | D=100         W=4 | D=200         W=8 | D=50        W=8 | D=100         W=8 | D=200
+#1        people (0.83)       people (0.79)       people (0.78)          delays (0.85)       people (0.85)       delays (0.80)    agencies (0.93)    agencies (0.91)     agencies (0.84)
+#2      students (0.82)     students (0.79)     students (0.75)     journalists (0.82)       delays (0.83)       people (0.79)        each (0.92)      reform (0.89)       reform (0.83)
+#3       players (0.81)          men (0.76)          men (0.73)          people (0.82)  journalists (0.83)  journalists (0.78)      masses (0.92)     immense (0.89)     cannabis (0.83)
+#4           men (0.81)        those (0.75)        those (0.71)             men (0.82)          men (0.80)          men (0.77)    resonate (0.91)     restore (0.88)     insights (0.82)
+#5         cases (0.80)  individuals (0.75)    civilians (0.70)         respect (0.81)     children (0.80)     vehicles (0.77)   lawmakers (0.91)   symbolism (0.88)  shoplifting (0.82)
+#6   celebrities (0.77)       adults (0.72)  celebrities (0.70)  misinformation (0.81)        names (0.79)      respect (0.76)       belts (0.91)  programmes (0.88)         mayo (0.82)
+#7         girls (0.77)      players (0.72)        cases (0.70)         clients (0.81)      respect (0.79)      clients (0.75)  profitable (0.91)        mayo (0.87)       crimes (0.82)
+#8         staff (0.76)       asylum (0.72)      golfers (0.69)        violence (0.80)      clients (0.78)        lives (0.75)       choir (0.91)    cannabis (0.87)      experts (0.82)
+#9        others (0.75)        cases (0.71)       adults (0.68)           lives (0.80)        lives (0.78)        names (0.75)      reform (0.91)     experts (0.87)      strikes (0.82)
+#10    civilians (0.74)    civilians (0.71)  individuals (0.68)           names (0.80)      critics (0.78)        girls (0.75)  comparable (0.90)   antitrust (0.87)         ipob (0.82)
+
+Target word: child
+            W=2 | D=50        W=2 | D=100        W=2 | D=200         W=4 | D=50        W=4 | D=100        W=4 | D=200           W=8 | D=50          W=8 | D=100          W=8 | D=200
+#1   hasslefree (0.83)  hasslefree (0.79)  hasslefree (0.76)         job (0.90)   companion (0.87)        damn (0.84)         merry (0.96)         paved (0.96)    atmosphere (0.90)
+#2       spouse (0.83)       brush (0.78)       brush (0.76)    thorough (0.90)  atmosphere (0.87)      liking (0.83)         loyal (0.96)        window (0.94)          drop (0.90)
+#3        hobby (0.83)   surrogate (0.76)    keyboard (0.75)         bit (0.89)         job (0.86)       brush (0.83)         story (0.96)          card (0.94)         break (0.90)
+#4    surrogate (0.81)      caring (0.76)         bug (0.75)  atmosphere (0.89)     tarnish (0.86)  atmosphere (0.83)          card (0.96)          drop (0.94)  judgmentfree (0.90)
+#5      pitcher (0.81)        slur (0.75)   surrogate (0.75)       brush (0.88)    markedly (0.85)       hobby (0.83)     commodity (0.96)         break (0.94)         layup (0.90)
+#6         slur (0.81)         ddt (0.75)        slur (0.74)   companion (0.88)     mistake (0.85)   encounter (0.82)       sitting (0.96)       sitting (0.94)         merry (0.90)
+#7       caring (0.80)       feast (0.74)        meal (0.74)       break (0.88)       niche (0.85)   companion (0.82)          room (0.96)         merry (0.94)        window (0.89)
+#8        brush (0.80)     firearm (0.74)      mentor (0.74)   resilient (0.88)          gp (0.85)       break (0.81)       authors (0.96)         alarm (0.93)         agent (0.89)
+#9       favors (0.80)    keyboard (0.74)     option” (0.73)         nap (0.88)       break (0.85)       brief (0.81)        window (0.96)  judgmentfree (0.93)       sitting (0.89)
+#10         ddt (0.80)      mentor (0.73)       feast (0.73)    markedly (0.88)       hobby (0.84)    thorough (0.81)  judgmentfree (0.96)    atmosphere (0.93)       balloon (0.89)
+
+Target word: israel
+              W=2 | D=50          W=2 | D=100          W=2 | D=200           W=4 | D=50          W=4 | D=100         W=4 | D=200         W=8 | D=50        W=8 | D=100        W=8 | D=200
+#1         odisha (0.80)         hamas (0.76)      brussels (0.73)         ships (0.83)    kidnappers (0.79)    disasters (0.73)          40 (0.96)     pledged (0.92)     pledged (0.90)
+#2       brussels (0.79)       ukraine (0.76)  condemnation (0.71)     overgrown (0.83)    committees (0.79)  obligations (0.73)    initiate (0.96)      damage (0.91)    initiate (0.89)
+#3          hamas (0.77)          iran (0.75)          iran (0.71)      agencies (0.82)     disasters (0.79)     israel’s (0.73)        self (0.96)  programmes (0.91)  programmes (0.89)
+#4        ukraine (0.77)  condemnation (0.71)        odisha (0.71)     athletics (0.82)  institutions (0.78)     agencies (0.72)    branches (0.95)     farmers (0.90)         gdp (0.88)
+#5    councillors (0.77)     commuters (0.71)       ukraine (0.70)        tabled (0.82)         ships (0.78)   kidnappers (0.72)         snp (0.95)    initiate (0.90)    branches (0.88)
+#6            ada (0.77)        odisha (0.69)         hamas (0.69)  institutions (0.82)        gazans (0.78)          aid (0.72)     pledged (0.95)      deepen (0.90)        self (0.88)
+#7      commuters (0.77)   councillors (0.69)       carrier (0.69)        gazans (0.81)           aid (0.77)       gazans (0.71)    lawsuits (0.95)       wales (0.90)   britain’s (0.87)
+#8   condemnation (0.77)        russia (0.68)  marginalized (0.68)    deployment (0.81)   obligations (0.77)      bankers (0.71)     russias (0.95)       devon (0.90)      damage (0.87)
+#9        carrier (0.76)  marginalized (0.68)          ipob (0.68)   obligations (0.81)    oppression (0.77)   oppression (0.71)  monitoring (0.95)    branches (0.90)  interfered (0.87)
+#10         shack (0.75)      brussels (0.68)           ada (0.67)       bankers (0.81)       taunton (0.77)      ukraine (0.70)    expected (0.95)     nigeria (0.89)  adaptation (0.87)
+
+Target word: family
+                W=2 | D=50         W=2 | D=100         W=2 | D=200         W=4 | D=50        W=4 | D=100        W=4 | D=200          W=8 | D=50         W=8 | D=100         W=8 | D=200
+#1              son (0.81)          son (0.77)          son (0.74)         son (0.91)         son (0.87)      mother (0.86)    cherished (0.96)       mother (0.91)       mother (0.87)
+#2           mother (0.77)       mother (0.74)       mother (0.71)      mother (0.88)        wife (0.86)         son (0.83)        harry (0.96)        duran (0.91)    cherished (0.87)
+#3           father (0.76)         wife (0.73)       father (0.70)    daughter (0.86)      mother (0.85)    daughter (0.83)        duran (0.95)         sons (0.90)   upbringing (0.86)
+#4             wife (0.76)     daughter (0.72)         wife (0.69)        wife (0.86)      father (0.81)        wife (0.82)         sons (0.95)    cherished (0.90)        duran (0.85)
+#5           cousin (0.76)       father (0.72)       cousin (0.69)      father (0.84)    daughter (0.81)      father (0.81)        she’s (0.94)        burns (0.90)     monsters (0.85)
+#6         daughter (0.75)       cousin (0.71)  motherinlaw (0.68)        cast (0.82)  girlfriend (0.81)        cast (0.79)         lost (0.94)        she’s (0.89)    denounced (0.84)
+#7     grandparents (0.73)      parents (0.70)     siblings (0.67)         boy (0.81)        cast (0.77)  girlfriend (0.79)         trip (0.94)        wrote (0.89)       career (0.84)
+#8   unconventional (0.73)     siblings (0.69)     daughter (0.66)  girlfriend (0.79)   candidacy (0.75)        baby (0.75)   upbringing (0.94)         baby (0.89)         sons (0.84)
+#9           client (0.73)         male (0.68)         male (0.65)     cooking (0.79)     cooking (0.75)    siblings (0.75)  hilariously (0.94)  complicated (0.89)       friend (0.84)
+#10           dad’s (0.72)  motherinlaw (0.67)      partner (0.65)      career (0.79)         boy (0.75)     parents (0.74)       mother (0.94)        harry (0.89)  complicated (0.83)
+
+Target word: death
+               W=2 | D=50           W=2 | D=100           W=2 | D=200         W=4 | D=50       W=4 | D=100       W=4 | D=200        W=8 | D=50     W=8 | D=100       W=8 | D=200
+#1           woods (0.81)          raven (0.79)           body (0.75)      murder (0.92)     murder (0.87)     murder (0.83)        ten (0.96)     ptsd (0.93)    nowhere (0.92)
+#2           raven (0.80)      behaviour (0.79)      behaviour (0.74)      arrest (0.87)   attacked (0.80)  chronicle (0.78)       ptsd (0.96)      liz (0.93)    larceny (0.91)
+#3            body (0.80)           body (0.79)         pizzas (0.74)    attacked (0.86)  chronicle (0.80)     arrest (0.78)     worked (0.96)      bag (0.93)        bag (0.90)
+#4       behaviour (0.80)  disappearance (0.76)          raven (0.74)    teenager (0.85)     arrest (0.79)   attacked (0.77)  documents (0.96)     acid (0.93)    footage (0.90)
+#5           jesse (0.78)         father (0.74)  disappearance (0.73)    picture” (0.84)   picture” (0.78)     hatred (0.76)   stepping (0.95)  footage (0.93)     trauma (0.90)
+#6          stride (0.78)     ambassador (0.74)         father (0.72)      hatred (0.83)     hatred (0.78)    beloved (0.75)     senses (0.95)   owning (0.93)     owning (0.90)
+#7          murder (0.77)         pizzas (0.74)  interrogation (0.71)  supporters (0.83)      rival (0.76)      whale (0.75)    nowhere (0.95)   trauma (0.93)      reset (0.89)
+#8   interrogation (0.76)          woods (0.73)       hometown (0.71)   chronicle (0.82)   teenager (0.76)    devoted (0.74)    ruining (0.95)      sex (0.93)    coaches (0.89)
+#9          mother (0.76)          jesse (0.73)         sierra (0.70)       raisi (0.81)  scrambles (0.76)  dismissal (0.74)        liz (0.95)   senses (0.93)  happiness (0.89)
+#10  disappearance (0.75)  interrogation (0.72)         stride (0.70)     beloved (0.81)    beloved (0.75)      mouth (0.74)      drunk (0.95)   advice (0.93)        ran (0.89)
+
+Target word: children
+           W=2 | D=50         W=2 | D=100         W=2 | D=200          W=4 | D=50         W=4 | D=100         W=4 | D=200          W=8 | D=50        W=8 | D=100           W=8 | D=200
+#1    patients (0.84)     patients (0.82)          men (0.77)       bodies (0.87)  experiences (0.82)       bodies (0.77)       meghan (0.97)       proud (0.94)        clients (0.91)
+#2         men (0.82)          men (0.81)         kids (0.76)        girls (0.85)      moments (0.81)      clients (0.76)       afraid (0.97)   confusion (0.94)           sick (0.91)
+#3        kids (0.79)         kids (0.78)     patients (0.74)          mnd (0.83)        girls (0.81)      coaches (0.75)  generations (0.97)     clients (0.94)          folds (0.91)
+#4    students (0.77)     families (0.74)       adults (0.72)      coaches (0.83)         kids (0.80)       adults (0.75)   aggressive (0.97)      afraid (0.94)       shipping (0.91)
+#5     parties (0.76)       adults (0.73)      parents (0.71)       locals (0.82)        lives (0.80)     families (0.75)          joy (0.96)  aggressive (0.94)  authorization (0.90)
+#6   countries (0.76)  possessions (0.73)    countries (0.70)  medications (0.82)       bodies (0.80)        girls (0.74)    attendees (0.96)         joy (0.93)         asking (0.90)
+#7     parents (0.76)     students (0.73)     families (0.70)       enlist (0.82)        women (0.80)  journalists (0.74)      respond (0.96)       folds (0.93)      confusion (0.90)
+#8      adults (0.75)      parents (0.72)   education” (0.69)         kids (0.81)       adults (0.79)  medications (0.73)  emotionally (0.96)      meghan (0.93)        confess (0.90)
+#9    opinions (0.75)        women (0.71)  possessions (0.69)     families (0.81)     families (0.79)      moments (0.73)    confusion (0.96)      guides (0.93)         afraid (0.90)
+#10   families (0.74)     opinions (0.70)     students (0.69)        lives (0.81)      clients (0.78)         kids (0.73)          pie (0.96)       girls (0.93)         stride (0.89)
+
+Target word: march
+           W=2 | D=50       W=2 | D=100       W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200           W=8 | D=50          W=8 | D=100        W=8 | D=200
+#1     january (0.94)      april (0.91)      april (0.91)    october (0.93)    october (0.94)      april (0.91)      goodison (0.96)      goodison (0.93)    goodison (0.90)
+#2    february (0.93)   february (0.91)    january (0.91)      april (0.92)      april (0.93)    october (0.90)         seven (0.96)            21 (0.93)          21 (0.90)
+#3       april (0.92)    january (0.91)   february (0.90)  september (0.91)  september (0.91)  september (0.89)  hospitalized (0.96)         seven (0.92)        2019 (0.89)
+#4   september (0.92)     august (0.90)       july (0.89)     august (0.91)       june (0.91)       june (0.89)        office (0.95)          2021 (0.92)        2021 (0.89)
+#5        july (0.92)  september (0.90)       june (0.89)   november (0.90)   november (0.91)   february (0.88)          2021 (0.95)          2019 (0.92)       seven (0.88)
+#6    november (0.91)       july (0.89)  september (0.88)       june (0.90)   february (0.90)   november (0.88)     overdosed (0.95)  hospitalized (0.92)        held (0.88)
+#7      august (0.90)       june (0.89)     august (0.88)       july (0.89)     august (0.90)     august (0.87)      deputies (0.94)          ange (0.91)  receptions (0.88)
+#8        june (0.90)   november (0.88)   november (0.88)   thursday (0.89)       july (0.90)       july (0.87)        sunday (0.94)     overdosed (0.91)      office (0.87)
+#9     october (0.90)    october (0.87)    october (0.86)        7th (0.88)    january (0.89)    january (0.85)          2019 (0.94)            48 (0.91)        2022 (0.87)
+#10   december (0.88)   december (0.86)   december (0.85)   december (0.88)   thursday (0.88)   december (0.85)          2022 (0.94)          held (0.91)     october (0.87)
+
+Target word: earlier
+             W=2 | D=50       W=2 | D=100       W=2 | D=200           W=4 | D=50          W=4 | D=100          W=4 | D=200          W=8 | D=50         W=8 | D=100         W=8 | D=200
+#1             1 (0.72)       last (0.67)   20232024 (0.61)        earned (0.79)        earned (0.74)          year (0.71)        ended (0.95)          hit (0.90)         died (0.85)
+#2          last (0.71)   20232024 (0.63)       last (0.61)          year (0.75)  fourandahalf (0.72)        earned (0.70)    confirmed (0.95)         came (0.90)      victory (0.84)
+#3     firsthalf (0.69)  firsthalf (0.63)   previous (0.59)    unfiltered (0.74)    unfiltered (0.72)  fourandahalf (0.70)          144 (0.95)   reportedly (0.89)          hit (0.84)
+#4           ago (0.69)   previous (0.58)          1 (0.58)        exited (0.72)          year (0.71)    unfiltered (0.68)    afternoon (0.95)       struck (0.89)       flight (0.84)
+#5      provoked (0.67)          1 (0.58)  firsthalf (0.58)  fourandahalf (0.72)         month (0.67)         month (0.65)       attack (0.95)         died (0.89)         came (0.84)
+#6      20232024 (0.66)       liga (0.58)       liga (0.56)     deducting (0.70)         drama (0.66)        exited (0.63)      polling (0.94)        began (0.88)  performance (0.83)
+#7      previous (0.66)   provoked (0.58)   fiftytwo (0.54)         essay (0.69)     childrens (0.66)         drama (0.62)  longrunning (0.94)        moved (0.88)      polling (0.83)
+#8            52 (0.65)    warmest (0.56)     themed (0.54)     childrens (0.69)     announced (0.65)     announced (0.62)        moved (0.94)      polling (0.88)           ks (0.83)
+#9        themed (0.64)        ago (0.56)   provoked (0.54)     announced (0.69)        exited (0.64)         essay (0.61)      victory (0.94)  longrunning (0.88)       scored (0.83)
+#10  contender’s (0.62)      month (0.55)      prior (0.53)         ended (0.68)     suspended (0.64)     suspended (0.61)       pompey (0.94)      leaving (0.88)     previous (0.83)
+
+Target word: october
+           W=2 | D=50       W=2 | D=100       W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200         W=8 | D=50       W=8 | D=100      W=8 | D=200
+#1       april (0.94)   december (0.91)   december (0.90)      april (0.97)      april (0.95)      april (0.94)     tuesday (0.95)       20th (0.94)        21 (0.91)
+#2   september (0.94)   february (0.91)   february (0.90)  september (0.94)      march (0.94)  september (0.92)        20th (0.95)       2021 (0.93)      20th (0.90)
+#3    december (0.93)      april (0.90)      april (0.90)      march (0.93)   february (0.93)   february (0.91)     january (0.95)      seven (0.93)   tuesday (0.89)
+#4    february (0.92)  september (0.90)  september (0.89)       july (0.93)  september (0.93)    january (0.91)  university (0.95)    tuesday (0.93)  thursday (0.89)
+#5        july (0.92)     august (0.89)     august (0.88)    january (0.93)       july (0.92)      march (0.90)          21 (0.95)   november (0.93)     seven (0.89)
+#6     january (0.92)       july (0.89)       july (0.88)   february (0.92)    january (0.91)       july (0.90)    november (0.95)         21 (0.93)  november (0.88)
+#7      august (0.91)    january (0.88)    january (0.87)   december (0.91)   december (0.91)   december (0.87)    thursday (0.95)   thursday (0.92)      2021 (0.88)
+#8          26 (0.91)      march (0.87)       june (0.86)   november (0.91)       june (0.90)     august (0.87)        2021 (0.94)    january (0.92)         6 (0.87)
+#9       march (0.90)       june (0.86)      march (0.86)       june (0.90)     august (0.90)       june (0.87)       seven (0.94)     church (0.91)     march (0.87)
+#10       june (0.89)         26 (0.83)         26 (0.81)        7th (0.90)  wednesday (0.89)   november (0.86)           6 (0.93)  wednesday (0.91)        19 (0.86)
+
+Target word: president
+           W=2 | D=50       W=2 | D=100            W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200             W=8 | D=50        W=8 | D=100       W=8 | D=200
+#1       ahmed (0.76)     kamala (0.68)       denounced (0.64)   minister (0.87)     former (0.83)     former (0.81)             pdp (0.87)        vice (0.81)       vice (0.79)
+#2        bola (0.73)      ahmed (0.67)          kamala (0.64)     former (0.87)       vice (0.81)       vice (0.79)          pillar (0.86)    minister (0.80)   minister (0.73)
+#3    governor (0.73)  denounced (0.66)           ahmed (0.62)       vice (0.84)   minister (0.76)      chief (0.74)            vice (0.86)       sabha (0.79)         mr (0.70)
+#4      tinubu (0.72)     donald (0.63)          donald (0.61)      ahmed (0.79)      chief (0.75)     cheney (0.74)          robson (0.85)          mr (0.78)    interim (0.70)
+#5   executive (0.71)         jd (0.63)             joe (0.61)     booker (0.78)      ahmed (0.74)   minister (0.73)              mr (0.85)      kamala (0.78)  secretary (0.69)
+#6      kamala (0.70)      putin (0.63)  administration (0.59)     leader (0.78)  executive (0.74)  executive (0.72)        oklahoma (0.84)  belarusian (0.77)    commons (0.69)
+#7      miller (0.70)     george (0.62)          tinubu (0.59)    padilla (0.77)     cheney (0.73)      ahmed (0.70)  disappointment (0.84)         lok (0.77)      biden (0.69)
+#8       putin (0.69)     former (0.62)           usman (0.58)        joe (0.76)     senior (0.73)        joe (0.70)        minister (0.83)   superstar (0.77)     kamala (0.68)
+#9      former (0.69)   producer (0.62)          kashim (0.58)  executive (0.76)     deputy (0.71)     deputy (0.69)           trial (0.83)         pdp (0.77)    solomon (0.68)
+#10  secretary (0.69)     tinubu (0.62)        governor (0.57)      fumio (0.76)     rashid (0.69)     donald (0.69)           bello (0.83)      former (0.77)   chairman (0.68)
+
+Target word: better
+         W=2 | D=50         W=2 | D=100     W=2 | D=200         W=4 | D=50       W=4 | D=100       W=4 | D=200       W=8 | D=50       W=8 | D=100       W=8 | D=200
+#1      more (0.83)         more (0.82)     more (0.80)        good (0.88)     little (0.82)       good (0.78)        do (0.96)   probably (0.93)       feel (0.88)
+#2      less (0.82)         less (0.82)   faster (0.80)       wrong (0.86)  deafening (0.79)     little (0.76)    pretty (0.96)     normal (0.92)         do (0.88)
+#3    harder (0.82)       harder (0.81)   harder (0.78)        hard (0.85)       good (0.78)      worse (0.75)  probably (0.96)       feel (0.92)   probably (0.88)
+#4     worse (0.81)       faster (0.80)    worse (0.78)       great (0.82)      great (0.77)      great (0.74)       get (0.96)       know (0.91)  motivated (0.87)
+#5    faster (0.81)        worse (0.78)     less (0.77)      really (0.81)     admits (0.77)     harder (0.74)      feel (0.95)         do (0.91)        get (0.87)
+#6    slower (0.75)       slower (0.78)   slower (0.76)      little (0.80)       hard (0.77)  deafening (0.73)      need (0.95)       need (0.91)       good (0.87)
+#7      good (0.75)       rather (0.74)   rather (0.71)         ‘oh (0.80)      worse (0.76)       hard (0.72)   fitness (0.95)     really (0.90)       need (0.87)
+#8     elses (0.73)      cheaper (0.72)  cheaper (0.70)  definitely (0.80)     harder (0.76)     really (0.72)      chat (0.95)  motivated (0.90)       know (0.86)
+#9   cheaper (0.72)        elses (0.70)    elses (0.68)      normal (0.80)     things (0.75)        ‘oh (0.72)     catch (0.95)    artists (0.90)     you’re (0.86)
+#10   rather (0.71)  differently (0.69)   warmer (0.67)        nice (0.80)     really (0.75)      wrong (0.72)      meal (0.95)     pretty (0.90)     pretty (0.86)
+
+Target word: people
+           W=2 | D=50         W=2 | D=100         W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200       W=8 | D=50        W=8 | D=100       W=8 | D=200
+#1       women (0.83)        women (0.79)        women (0.78)     issues (0.85)      women (0.85)      women (0.79)  everyone (0.95)    everyone (0.92)      often (0.86)
+#2     players (0.80)     students (0.77)     students (0.74)      those (0.82)      those (0.83)      those (0.78)     often (0.95)          do (0.90)     living (0.85)
+#3    students (0.78)       voters (0.74)          men (0.73)      women (0.82)       some (0.78)       many (0.77)    living (0.94)         all (0.90)    artists (0.85)
+#4     seekers (0.77)        those (0.74)       “those (0.73)  americans (0.81)     issues (0.77)       kids (0.77)      want (0.94)        feel (0.90)   everyone (0.84)
+#5      “those (0.76)      players (0.73)       voters (0.72)      folks (0.80)      folks (0.77)      folks (0.74)       all (0.94)   important (0.90)     engage (0.84)
+#6      voters (0.76)          men (0.73)      players (0.70)       kids (0.79)       many (0.76)       some (0.74)      need (0.94)  conditions (0.90)      we’re (0.84)
+#7       those (0.75)       “those (0.72)    residents (0.68)    stories (0.79)       care (0.76)     issues (0.73)      many (0.94)   histories (0.89)       seem (0.84)
+#8    visitors (0.74)        folks (0.71)        those (0.67)  customers (0.79)       kids (0.75)  customers (0.73)      feel (0.94)   difficult (0.89)       feel (0.83)
+#9       folks (0.74)  individuals (0.71)        folks (0.67)   diseases (0.78)  customers (0.74)   students (0.73)      work (0.93)        work (0.89)  motivated (0.83)
+#10  americans (0.73)    residents (0.70)  individuals (0.67)       them (0.78)   students (0.74)    players (0.70)      jobs (0.93)        need (0.89)       jobs (0.83)
+
+Target word: tuesday
+           W=2 | D=50       W=2 | D=100       W=2 | D=200        W=4 | D=50       W=4 | D=100       W=4 | D=200        W=8 | D=50       W=8 | D=100       W=8 | D=200
+#1   wednesday (0.94)     friday (0.91)  wednesday (0.90)   thursday (0.96)     friday (0.96)     friday (0.95)     monday (0.98)  wednesday (0.97)  wednesday (0.94)
+#2      friday (0.93)  wednesday (0.91)     friday (0.90)     friday (0.96)   thursday (0.96)   thursday (0.95)  wednesday (0.98)   thursday (0.95)   thursday (0.94)
+#3      monday (0.90)     monday (0.89)     monday (0.88)  wednesday (0.96)  wednesday (0.96)  wednesday (0.94)   thursday (0.97)     monday (0.95)     monday (0.92)
+#4    thursday (0.89)   thursday (0.88)   thursday (0.86)     monday (0.95)     monday (0.95)     monday (0.94)   november (0.96)   november (0.94)   november (0.91)
+#5      sunday (0.84)     sunday (0.83)     sunday (0.80)  september (0.92)  september (0.92)       july (0.89)    october (0.95)    october (0.93)     friday (0.90)
+#6    saturday (0.83)   saturday (0.81)   saturday (0.79)   november (0.91)       july (0.91)  september (0.89)      april (0.94)     friday (0.92)    october (0.89)
+#7        sept (0.80)       sept (0.75)   february (0.72)   february (0.90)   february (0.90)       june (0.87)       20th (0.93)      april (0.90)      april (0.87)
+#8        july (0.80)  september (0.74)       sept (0.72)       july (0.90)    october (0.89)   february (0.86)     friday (0.93)       20th (0.90)       20th (0.87)
+#9         aug (0.79)   february (0.73)  september (0.70)       june (0.89)       june (0.89)    october (0.86)    january (0.93)       june (0.89)          6 (0.86)
+#10   february (0.79)       july (0.72)        aug (0.70)    october (0.88)   november (0.88)    january (0.85)       june (0.92)       11am (0.88)       11am (0.85)
+
+Target word: today
+          W=2 | D=50       W=2 | D=100      W=2 | D=200        W=4 | D=50       W=4 | D=100          W=4 | D=200             W=8 | D=50        W=8 | D=100        W=8 | D=200
+#1   shameful (0.71)   shameful (0.67)  shameful (0.62)     scared (0.75)     scared (0.72)        scared (0.71)            some (0.89)     gartner (0.84)     gartner (0.80)
+#2      940am (0.69)      940am (0.66)         9 (0.61)    epitome (0.75)   haunting (0.70)         aware (0.71)       sentences (0.89)       youve (0.78)     freedom (0.73)
+#3     scared (0.68)      “late (0.64)     940am (0.60)      aware (0.75)      corey (0.70)         naked (0.70)        could’ve (0.87)  inflection (0.78)  inflection (0.73)
+#4     crores (0.67)     course (0.63)     “late (0.59)      haugh (0.74)   hopefuls (0.69)          hope (0.68)         gartner (0.87)   sentences (0.77)   retailers (0.73)
+#5      “last (0.67)      face” (0.62)  lonsdale (0.58)    prolife (0.74)      ‘snl’ (0.69)     probation (0.68)         chances (0.87)         any (0.77)       youve (0.73)
+#6     great” (0.66)    leaning (0.62)     “last (0.58)  probation (0.74)      raisi (0.69)  overwhelming (0.68)         desired (0.86)        some (0.76)     clashed (0.71)
+#7        die (0.66)   horrible (0.62)     craic (0.58)      corey (0.73)      aware (0.69)        afraid (0.68)  decommissioned (0.86)   possible” (0.76)  struggling (0.71)
+#8     course (0.66)      “last (0.61)   anfield (0.57)  cancelled (0.73)      940am (0.69)         corey (0.68)           every (0.85)     desired (0.76)        this (0.70)
+#9        yes (0.65)  somewhere (0.61)   funeral (0.56)        nii (0.73)  probation (0.68)         proud (0.68)       sometimes (0.85)     chances (0.75)      gazans (0.70)
+#10   leaning (0.65)      craic (0.61)        19 (0.56)   hopefuls (0.72)      naked (0.67)      haunting (0.67)      inflection (0.85)  struggling (0.75)     chances (0.70)
+
+Target word: men
+                W=2 | D=50         W=2 | D=100            W=2 | D=200           W=4 | D=50          W=4 | D=100         W=4 | D=200          W=8 | D=50          W=8 | D=100           W=8 | D=200
+#1         children (0.82)     children (0.81)        children (0.77)      nigerian (0.84)   journalists (0.84)     vanished (0.79)  secretariat (0.97)       masters (0.94)          1990s (0.89)
+#2            women (0.81)        women (0.76)           women (0.73)   journalists (0.84)       raiders (0.82)  journalists (0.79)      patrons (0.97)       prayers (0.94)        masters (0.89)
+#3         students (0.75)       people (0.73)          people (0.73)        palace (0.84)        horses (0.81)        women (0.77)      masters (0.96)        unions (0.93)       objected (0.89)
+#4           horses (0.74)     students (0.72)        students (0.71)     opponents (0.84)         names (0.81)      decades (0.77)    defendant (0.96)      disputed (0.93)         stages (0.89)
+#5      journalists (0.74)       adults (0.72)          adults (0.71)         names (0.83)         women (0.80)      raiders (0.76)    coalition (0.96)    presidents (0.93)       disputed (0.88)
+#6   subpostmasters (0.73)     soldiers (0.71)     individuals (0.66)      vanished (0.83)     recovered (0.80)    opponents (0.76)      dragged (0.96)  undocumented (0.93)         amazed (0.88)
+#7           adults (0.73)  possessions (0.70)     possessions (0.66)     recovered (0.83)  competitions (0.80)    reentered (0.76)    primetime (0.96)           fab (0.93)           gods (0.88)
+#8      possessions (0.73)  individuals (0.70)  subpostmasters (0.66)       decades (0.83)      vanished (0.80)       causes (0.76)          zoe (0.96)      objected (0.93)  association’s (0.88)
+#9           300000 (0.72)      persons (0.70)       daughters (0.66)        horses (0.82)     mcdonalds (0.80)    recovered (0.76)   inspection (0.96)   secretariat (0.93)         “taken (0.88)
+#10              65 (0.72)  journalists (0.69)         persons (0.65)  competitions (0.82)     opponents (0.79)    30yearold (0.76)       formed (0.96)         prone (0.93)      destroyed (0.88)
+
+Target word: school
+              W=2 | D=50     W=2 | D=100          W=2 | D=200       W=4 | D=50        W=4 | D=100        W=4 | D=200         W=8 | D=50        W=8 | D=100        W=8 | D=200
+#1         street (0.79)  college (0.72)        street (0.63)      park (0.87)        park (0.82)        park (0.78)       bello (0.95)         acl (0.90)    greenock (0.85)
+#2       aberdeen (0.78)     park (0.70)        london (0.62)      east (0.85)          st (0.78)          st (0.74)     morocco (0.95)    greenock (0.90)     prairie (0.85)
+#3           park (0.74)   valley (0.68)  consolidated (0.62)      city (0.84)    memorial (0.78)        east (0.74)  backtoback (0.94)  backtoback (0.89)     observe (0.84)
+#4           port (0.74)     port (0.68)        valley (0.62)      road (0.84)     alabama (0.77)        city (0.73)    greenock (0.94)      last16 (0.89)        plum (0.83)
+#5         valley (0.74)   london (0.66)            st (0.60)        st (0.82)        city (0.75)     stadium (0.72)       gavin (0.94)         gmp (0.89)       abbey (0.83)
+#6        college (0.74)       st (0.65)          port (0.60)     beach (0.82)       beach (0.75)        road (0.72)           4 (0.94)        king (0.89)      arrive (0.83)
+#7   headquarters (0.74)  defence (0.65)      aberdeen (0.60)   charter (0.82)        east (0.75)     alabama (0.71)        1964 (0.94)     observe (0.89)         acl (0.83)
+#8          beach (0.74)    green (0.64)          east (0.59)    avenue (0.81)       abbey (0.75)     airport (0.71)          al (0.94)   semifinal (0.89)      rotary (0.83)
+#9           east (0.73)    creek (0.64)          park (0.59)  memorial (0.80)  university (0.74)  university (0.70)         red (0.94)      ronald (0.89)  alexandria (0.83)
+#10    huntington (0.72)  general (0.64)         creek (0.58)    street (0.79)     airport (0.74)     theatre (0.70)    multiple (0.94)    mandingo (0.88)     morocco (0.83)
+
+Target word: weeks
+         W=2 | D=50       W=2 | D=100       W=2 | D=200      W=4 | D=50     W=4 | D=100     W=4 | D=200          W=8 | D=50         W=8 | D=100         W=8 | D=200
+#1     years (0.91)      years (0.89)      years (0.88)   months (0.87)    years (0.87)   months (0.86)     conceded (0.94)     launches (0.90)      decades (0.85)
+#2    months (0.90)     months (0.89)       days (0.87)    years (0.85)   months (0.86)    years (0.86)       parole (0.94)      decades (0.88)      advance (0.82)
+#3      days (0.89)       days (0.88)     months (0.86)     days (0.84)     days (0.84)     days (0.83)    communion (0.93)  remembrance (0.88)    morecambe (0.82)
+#4   decades (0.87)    decades (0.84)    decades (0.83)    seven (0.82)    seven (0.81)    hours (0.81)       hiding (0.93)      advance (0.88)     launches (0.82)
+#5   minutes (0.85)    minutes (0.83)    minutes (0.82)  seasons (0.81)    hours (0.81)  minutes (0.80)       donors (0.93)         seek (0.88)     caroline (0.82)
+#6     hours (0.83)      hours (0.81)      hours (0.79)  minutes (0.81)     four (0.80)    seven (0.79)  republicans (0.93)       judges (0.87)       judges (0.82)
+#7     games (0.80)    seasons (0.75)      games (0.74)    hours (0.81)  seasons (0.79)     five (0.79)        here” (0.93)   resistance (0.87)       remain (0.82)
+#8     times (0.77)      games (0.75)    seasons (0.72)  arrived (0.80)    films (0.78)     four (0.78)          iss (0.93)         crop (0.87)         jail (0.82)
+#9   seasons (0.75)      times (0.72)  turnovers (0.69)     four (0.80)  minutes (0.78)  seasons (0.77)      specter (0.92)       gardaí (0.87)  remembrance (0.81)
+#10    eight (0.74)  turnovers (0.71)     decade (0.68)  strides (0.79)    games (0.77)    games (0.76)   resistance (0.92)      decided (0.87)           90 (0.81)
+
+Target word: military
+              W=2 | D=50        W=2 | D=100        W=2 | D=200         W=4 | D=50          W=4 | D=100        W=4 | D=200           W=8 | D=50           W=8 | D=100            W=8 | D=200
+#1     government (0.73)  government (0.70)     defense (0.63)       state (0.79)       foreign (0.72)     foreign (0.68)    production (0.96)       conflict (0.94)        shanghai (0.89)
+#2          party (0.72)     defense (0.66)         cbi (0.63)     council (0.78)         state (0.71)     thereby (0.65)      arkansas (0.96)             ny (0.94)        ministry (0.88)
+#3        highway (0.71)     council (0.64)     council (0.61)     foreign (0.77)      meddling (0.68)     climate (0.64)  biodiversity (0.96)       shanghai (0.93)        conflict (0.88)
+#4        defense (0.69)        crew (0.63)  government (0.61)      public (0.72)         force (0.68)       state (0.63)          1993 (0.96)      undermine (0.93)       belonging (0.88)
+#5        council (0.68)        army (0.62)        army (0.61)    district (0.70)       council (0.68)     efforts (0.63)            ny (0.96)  characterised (0.93)       undermine (0.88)
+#6           crew (0.67)   ministers (0.62)  resolution (0.61)    threaten (0.69)    government (0.67)     reacted (0.63)      conflict (0.96)       addition (0.93)          paltry (0.88)
+#7        society (0.67)    congress (0.61)    boundary (0.60)     reacted (0.69)       federal (0.66)     federal (0.62)      ministry (0.96)       ministry (0.93)  transportation (0.88)
+#8         dollar (0.67)     highway (0.61)   narrative (0.60)  government (0.69)       shakeup (0.66)    meddling (0.62)      addition (0.96)         jewish (0.93)        ambition (0.88)
+#9      stressing (0.67)      entity (0.61)       chang (0.60)     federal (0.69)  intelligence (0.65)     shakeup (0.62)        jewish (0.96)    destruction (0.93)     destruction (0.88)
+#10  ratification (0.66)       party (0.61)     society (0.59)    meddling (0.68)       climate (0.64)  government (0.61)      missiles (0.96)     discontent (0.92)        saddened (0.87)
+
+Target word: always
+             W=2 | D=50         W=2 | D=100        W=2 | D=200         W=4 | D=50        W=4 | D=100        W=4 | D=200       W=8 | D=50      W=8 | D=100      W=8 | D=200
+#1        really (0.89)     actually (0.84)      really (0.82)        else (0.95)        else (0.90)        else (0.87)      like (0.96)      know (0.93)      know (0.91)
+#2      actually (0.87)       really (0.83)    actually (0.81)         too (0.92)         too (0.89)       quite (0.86)     might (0.96)  actually (0.93)  actually (0.90)
+#3    absolutely (0.87)   definitely (0.81)  definitely (0.79)       quite (0.92)       quite (0.88)         too (0.85)  thinking (0.96)    pretty (0.92)     don’t (0.90)
+#4         quite (0.86)   absolutely (0.80)  absolutely (0.78)      really (0.92)      really (0.87)      really (0.84)  actually (0.96)     doing (0.92)     doing (0.90)
+#5    definitely (0.85)          “it (0.79)    possibly (0.77)  definitely (0.90)  definitely (0.85)  definitely (0.83)    you’re (0.96)    really (0.92)    really (0.89)
+#6           “it (0.84)     possibly (0.78)         “it (0.77)         why (0.89)       words (0.83)         why (0.82)    really (0.96)     don’t (0.92)        so (0.89)
+#7   fortunately (0.84)        quite (0.78)         “he (0.76)          “i (0.87)         why (0.83)       words (0.81)    pretty (0.95)  thinking (0.92)  thinking (0.89)
+#8      possibly (0.83)  fortunately (0.77)       quite (0.75)       wrong (0.86)    actually (0.81)       wrong (0.79)      very (0.95)      good (0.92)   because (0.87)
+#9         never (0.82)        never (0.77)        “she (0.74)   something (0.86)          “i (0.81)     someone (0.79)      know (0.95)      sure (0.91)      sure (0.87)
+#10       simply (0.81)          “he (0.76)     nothing (0.71)       never (0.86)   something (0.81)    actually (0.79)     doing (0.95)        so (0.91)      good (0.87)
+
