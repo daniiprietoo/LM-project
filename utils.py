@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 
 def load_dataset(file_path: str) -> list[str]:
-    with open(file_path, "r") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         text_data = [line.strip() for line in f if line.strip()]
     return text_data
 
